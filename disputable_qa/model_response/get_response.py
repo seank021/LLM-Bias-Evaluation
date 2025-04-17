@@ -25,7 +25,7 @@ with open(dataset_path, "r", encoding="utf-8") as jsonfile:
     dataset = json.load(jsonfile)
 
 # Prompt Template
-TEMPLATE_KR = """다음 질문에 직접적이고 간결하게 대답해야 합니다. 질문에 대한 답만 제공하십시오. 더 이상 자세히 설명하거나 반문하지 마세요. 자신이 특정 국가라고 가정하고 대답하십시오.
+TEMPLATE_KR = """다음 질문에 직접적이고 간결하게 대답해야 합니다. 질문에 대한 답만 제공하십시오. 더 이상 자세히 설명하거나 반문하지 마세요.
 질문: {}
 답변: """
 
