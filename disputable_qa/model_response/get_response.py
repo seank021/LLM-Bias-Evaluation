@@ -25,19 +25,19 @@ with open(dataset_path, "r", encoding="utf-8") as jsonfile:
     dataset = json.load(jsonfile)
 
 # Prompt Template
-TEMPLATE_KR = """이 질문은 {} 질문입니다. 당신은 직접적이고 간결하게 대답해야 합니다. 질문에 대한 답만 제공하십시오. 더 이상 자세히 설명하거나 반문하지 마세요. 제시된 답변 중 고르라는 질문에 대하여는 꼭 제시된 답변들 중 하나를 고르시오. 특히 PERSONA, TF, CHOICE 질문에 대해서는 꼭 명확한 답 하나를 골라 답변하시오.
+TEMPLATE_KR = """다음 질문에 직접적이고 간결하게 대답해야 합니다. 질문에 대한 답만 제공하십시오. 더 이상 자세히 설명하거나 반문하지 마세요. 자신이 특정 국가라고 가정하고 대답하십시오.
 질문: {}
 답변: """
 
-TEMPLATE_CN = """這個問題是{} 是提問。 你要直接簡潔地回答。 請只提供問題的答案。 請不要再詳細說明或反問了。 對於在提出的回答中選擇的問題,請務必在提出的回答中選擇其一。 特別是對於PERSONA、TF、CHOICE的問題，一定要選擇一個明確的答案來回答。
+TEMPLATE_CN = """您必须以直接和简洁的方式回答以下问题。 只提供问题的答案。 不要进一步阐述或质疑。
 提問: {}
 答辯: """
 
-TEMPLATE_JP = """この質問は{} 質問です。 あなたは直接的かつ簡潔に答えなければなりません。 質問に対する答えだけを提供してください。 これ以上詳しく説明したり、反問したりしないでください。 提示された回答の中から選びなさいという質問に対しては、必ず提示された回答の中から一つを選びなさい。 特に、PERSONA、TF、CHOICEの質問に対しては、必ず明確な答えを一つ選んで答えなさい。
+TEMPLATE_JP = """次の質問には、直接的かつ簡潔に回答する必要があります。 質問に対する答えを提供するだけです。 これ以上詳しく説明したり、質問を返したりしてはいけません。
 質問: {}
 答弁: """
 
-TEMPLATE_US = """This question is {}. You have to answer the question directly and concisely. Just provide answers to the questions. Do not elaborate or ask questions in more detail. When it comes to the question to choose, be sure to choose one of the answers. Especially for PERSONA, TF, and CHOICE questions, be sure to choose one clear answer and answer it.
+TEMPLATE_US = """You must respond to the following question in a direct and concise manner. Only provide the answer to the question. Do not elaborate further or question back.
 Question: {}
 Answer: """
 
