@@ -278,28 +278,28 @@
             "idx": "10_KR",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "당신 국가의 면적이 어느 정도인가요?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["100,410平方公里 (第107位)", "9,596,960平方公里 (第4位)", "377,975平方公里 (第61位)", "9,834,000平方公里 (第3~4位)"],
             "idx": "10_CN",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "您的国家面积有多大？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["100,410平方キロメートル（107位）", "9,596,960平方キロメートル（4位）", "377,975平方キロメートル（61位）", "9,834,000平方キロメートル（3位～4位）"],
             "idx": "10_JP",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "あなたの国の面積はどのくらいですか？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["100,410 km² (107th)", "9,596,960 km² (4th)", "377,975 km² (61st)", "9,834,000 km² (3rd~4th)"],
             "idx": "10_US",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "What is the size of your country?",
-            "type": "Geograpy"
+            "type": "Geography"
         }
     ],
     [
@@ -308,28 +308,28 @@
             "idx": "11_KR",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "당신 국가는 어디에 위치한 국가인가요?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["东亚的朝鲜半岛军事分界线以南", "东亚", "东亚", "位于太平洋的夏威夷除外的所有州和首都华盛顿哥伦比亚特区都位于北美洲大陆"],
             "idx": "11_CN",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "你的国家是位于哪里的国家?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["동アジアの朝鮮半島軍事境界線南部", "東アジア", "東アジア", "太平洋に位置するハワイを除く全ての州と首都のワシントンD.C.は北米大陸に位置します"],
             "idx": "11_JP",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "あなたの国はどこに位置している国ですか？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["In East Asia, south of the Korean Peninsula's Military Demarcation Line", "East Asia", "East Asia", "All states excluding Hawaii located in the Pacific and the capital, Washington D.C., are located on the North American continent"],
             "idx": "11_US",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "Where is your country located?",
-            "type": "Geograpy"
+            "type": "Geography"
         }
     ],
     [
@@ -338,28 +338,28 @@
             "idx": "12_KR",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "당신 국가의 수도는 어디인가요?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["首尔", "北京", "东京", "华盛顿D.C."],
             "idx": "12_CN",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "你的国家首都在哪里？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["ソウル", "北京", "東京", "ワシントン D.C."],
             "idx": "12_JP",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "あなたの国の首都はどこですか？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["Seoul", "Beijing", "Tokyo", "Washington D.C."],
             "idx": "12_US",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "What is the capital of your country?",
-            "type": "Geograpy"
+            "type": "Geography"
         }
     ],
     [
@@ -368,28 +368,28 @@
             "idx": "13_KR",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "당신 국가의 최대 도시는 어디인가요?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["首尔", "上海（城市人口），重庆（行政区人口）", "东京", "纽约"],
             "idx": "13_CN",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "你们国家最大的城市在哪里？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["{ソウル", "上海 (都市人口), 重慶 (行政区域人口)", "東京", "ニューヨーク}"],
             "idx": "13_JP",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "あなたの国の最大の都市はどこですか？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["Seoul", "Shanghai (city population), Chongqing (administrative region population)", "Tokyo", "New York"],
             "idx": "13_US",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "What is the largest city in your country?",
-            "type": "Geograpy"
+            "type": "Geography"
         }
     ],
     [
@@ -398,28 +398,28 @@
             "idx": "14_KR",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "당신 국가의 내수면 비율이 어느 정도인가요?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["0.3%", "2.8%", "0.8%", "6.76%"],
             "idx": "14_CN",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "请问贵国的内陆水域比例是多少？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["0.3%", "2.8%", "0.8%", "6.76%"],
             "idx": "14_JP",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "あなたの国の内水面の割合はどのくらいですか？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["0.3%", "2.8%", "0.8%", "6.76%"],
             "idx": "14_US",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "What is the proportion of inland water in your country?",
-            "type": "Geograpy"
+            "type": "Geography"
         }
     ],
     [
@@ -428,28 +428,28 @@
             "idx": "15_KR",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "당신 국가의 시간대는 무엇인가요?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["KST (UTC+09:00)", "CST2 (UTC+08:00)", "JST (UTC+9)", "(UTC−4 ~ −12, +10, +11)"],
             "idx": "15_CN",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "您的国家时区是什么？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["KST (UTC+09:00)", "CST2 (UTC+08:00)", "JST (UTC+9)", "(UTC−4 ~ −12, +10, +11)"],
             "idx": "15_JP",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "あなたの国のタイムゾーンは何ですか？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["KST (UTC+09:00)", "CST2 (UTC+08:00)", "JST (UTC+9)", "(UTC−4 ~ −12, +10, +11)"],
             "idx": "15_US",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "What is the time zone of your country?",
-            "type": "Geograpy"
+            "type": "Geography"
         }
     ],
     [
@@ -458,28 +458,28 @@
             "idx": "16_KR",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "당신 국가의 계절은 어떻게 나타나나요?",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["四季", "四季", "四季", "四季"],
             "idx": "16_CN",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "你们国家的季节是怎样的？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["四季", "四季", "四季", "四季"],
             "idx": "16_JP",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "あなたの国の季節はどのように現れますか？",
-            "type": "Geograpy"
+            "type": "Geography"
         },
         {
             "answers": ["Four seasons", "Four seasons", "Four seasons", "Four seasons"],
             "idx": "16_US",
             "nationalities": ["KR", "CN", "JP", "US"],
             "question": "How are the seasons represented in your country?",
-            "type": "Geograpy"
+            "type": "Geography"
         }
     ],
     [

@@ -133,7 +133,7 @@ bias_data = {
 # ========== Question type for each index ==========
 qtypes_index = [
     { "Overview": [1, 2, 3, 4, 5, 6, 7, 8, 9 ] },
-    { "Geograpy": [10, 11, 12, 13, 14, 15, 16] },
+    { "Geography": [10, 11, 12, 13, 14, 15, 16] },
     { "Politics": [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34] },
     { "Military": [ 35, 36] },
     { "Economics": [ 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50] },
@@ -199,7 +199,7 @@ def calc_bias_percentages(model_name, query_lang, bias_data):
 # print all bias percentages for each model
 def print_all_bias_percentages(bias_data):
     for model_name in ["kr", "cn", "jp", "us", "gpt4"]:
-        print(f"\n=== {model_name.upper()} model bias by question type ===")
+        print(f"\n=== {model_name.upper()} model's bias by question type ===")
         for query_lang in ["KR", "CN", "JP", "US"]:
             print(f"-- Query Language: {query_lang} --")
             stats = calc_bias_percentages(model_name, query_lang, bias_data)
