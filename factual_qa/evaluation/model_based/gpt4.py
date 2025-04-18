@@ -7,7 +7,7 @@ os.environ["OPENAI_API_KEY"] = "keep-it-secret"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Load the model-response file
-file_name = "../model_response/result/chatgpt.json"
+file_name = "../model_response/result/gpt4.json"
 
 with open(file_name, 'r') as file:
     response = json.load(file)

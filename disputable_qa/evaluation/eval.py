@@ -134,7 +134,7 @@ data_us = pd.DataFrame({
     ]
 })
 
-data_chatgpt = pd.DataFrame({
+data_gpt4 = pd.DataFrame({
     "IDX": [
         "1_KR (kr-cn)", "1_CN (kr-cn)", "1_JP (kr-cn)", "1_US (kr-cn)",
         "2_KR (kr-jp)", "2_CN (kr-jp)", "2_JP (kr-jp)", "2_US (kr-jp)",
@@ -172,9 +172,9 @@ data_kr["MODEL"] = "KR"
 data_cn["MODEL"] = "CN"
 data_jp["MODEL"] = "JP"
 data_us["MODEL"] = "US"
-data_chatgpt["MODEL"] = "ChatGPT"
+data_gpt4["MODEL"] = "gpt4"
 
-combined_data = pd.concat([data_kr, data_cn, data_jp, data_us, data_chatgpt], ignore_index=True)
+combined_data = pd.concat([data_kr, data_cn, data_jp, data_us, data_gpt4], ignore_index=True)
 
 # Replace 'neutral' and 'no-answer' with 'invalid' for analysis
 for column in ["OPEN", "PERSONA", "TF", "CHOICE"]:

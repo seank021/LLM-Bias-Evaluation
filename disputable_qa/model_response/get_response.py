@@ -1,7 +1,7 @@
 import os
 import json
 
-# If model is ChatGPT, use this code below
+# If model is gpt4, use this code below
 '''
 import openai
 from openai import OpenAI
@@ -69,7 +69,7 @@ KR: "MLP-KTLim/llama-3-Korean-Bllossom-8B", "kr.json"
 CN: "Qwen/Qwen1.5-7B", "cn.json"
 JP: "Rakuten/RakutenAI-7B", "jp.json"
 US: "meta-llama/Meta-Llama-3-8B", "us.json"
-ChatGPT: "gpt-4", "chatgpt.json"'
+gpt4: "gpt-4", "gpt4.json"'
 '''
 model_name = "choose-from-above"
 result_dir = "result"

@@ -29,7 +29,7 @@ TEMPLATE_US = """You must respond to the following question in a direct and conc
 Question: {}
 Answer: """
 
-# Extract responses from the model (ChatGPT)
+# Extract responses from the model (gpt4)
 output = []
 
 for idx, question_set in enumerate(dataset, start=1):
@@ -81,7 +81,7 @@ for idx, question_set in enumerate(dataset, start=1):
         ]
     )
 
-    # Since ChatGPT is basically a English-based model, we put answers for both the query-language nation and the United States
+    # Since gpt4 is basically a English-based model, we put answers for both the query-language nation and the United States
     entry = {
         "idx": idx,
         "KR": {
@@ -119,10 +119,10 @@ for idx, question_set in enumerate(dataset, start=1):
 
     output.append(entry)
 
-# Save to result/chatgpt.json
+# Save to result/gpt4.json
 result_dir = "result"
 os.makedirs(result_dir, exist_ok=True)
-output_file = os.path.join(result_dir, "chatgpt.json")
+output_file = os.path.join(result_dir, "gpt4.json")
 
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=4)
