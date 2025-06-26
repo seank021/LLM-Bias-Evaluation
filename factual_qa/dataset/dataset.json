@@ -1,0 +1,2104 @@
+[
+    [
+        {
+            "answers": ["대한민국 (한국)", "중화인민공화국 (중국)", "일본국 (일본)", "미합중국 (미국)"],
+            "idx": "1_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국가명이 무엇인가요?",
+            "type": "Overview"
+        
+        },
+        {
+            "answers": ["大韩民国 (韩国)", "中华人民共和国 (中国)", "日本国 (日本)", "美利坚合众国 (美国)"],
+            "idx": "1_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家名字是什么？",
+            "type": "Overview"
+        
+        },
+        {
+            "answers": ["大韓民国 (韓国)", "中華人民共和國 (中国)", "日本国 (日本)", "アメリカ合衆国 (アメリカ)"],
+            "idx": "1_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国名は何ですか？",
+            "type": "Overview"
+        
+        },
+        {
+            "answers": ["Republic of Korea (South Korea)", "People's Republic of China (China)", "State of Japan (Japan)", "United States of America (USA)"],
+            "idx": "1_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the name of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["Republic of Korea", "China", "Japan", "United States of America"],
+            "idx": "2_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국가명의 공식 영어 명칭은 무엇인가요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["Republic of Korea", "China", "Japan", "United States of America"],
+            "idx": "2_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的官方英文名称是什么？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["Republic of Korea", "China", "Japan", "United States of America"],
+            "idx": "2_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国名の公式英語名称は何ですか？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["Republic of Korea", "China", "Japan", "United States of America"],
+            "idx": "2_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the official English name of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["태극기", "오성홍기", "일장기", "성조기"],
+            "idx": "3_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국기는 무엇인가요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["太极旗", "五星红旗", "日章旗", "星条旗"],
+            "idx": "3_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你国家的国旗是什么样的？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["太極旗", "五星紅旗", "日章旗", "星条旗"],
+            "idx": "3_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国旗は何ですか?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["Taegeukgi (Flag of South Korea)", "Five-star Red Flag (Flag of China)", "Nisshōki (Flag of Japan)", "Stars and Stripes (Flag of the United States)"],
+            "idx": "3_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the flag of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["애국가", "의용군 진행곡", "기미가요", "별이 빛나는 깃발"],
+            "idx": "4_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국가는 무엇인가요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["爱国歌", "义勇军进行曲", "君之代", "星条旗"],
+            "idx": "4_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的国歌是什么？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["愛国歌", "義勇軍進行曲", "君が代", "星条旗"],
+            "idx": "4_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国歌は何ですか？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["The Korean national anthem", "The March of the Volunteer Army", "Kimigayo", "The Star-Spangled Banner"],
+            "idx": "4_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the national anthem of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["무궁화", "공식적으로는 없음", "국화는 없지만 황실을 상징하는 꽃으로 국화를 사용", "인디애나주는 튤립, 버지니아주는 미국산딸나무, 미주리주는 산사나무, 캘리포니아주는 캘리포니아포피, 하와이주는 히비스커스"],
+            "idx": "5_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국화는 무엇인가요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["木槿", "正式名称为“无”", "虽然没有指定国花，但使用象征皇室的花朵作为国花", "印第安纳州的州花是郁金香，弗吉尼亚州的州花是美国山茱萸，密苏里州的州花是山楂，加利福尼亚州的州花是加利福尼亚罂粟，夏威夷州的州花是芙蓉"],
+            "idx": "5_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的国花是什么？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["ムクゲ", "公式的にはありません", "国花はないが、皇室を象徴する花として菊花を使用", "インディアナ州はチューリップ、バージニア州はアメリカヤマボウシ、ミズーリ州はサンザシ、カリフォルニア州はカリフォルニアポピー、ハワイ州はハイビスカス"],
+            "idx": "5_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国花は何ですか？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["Mugunghwa", "Officially none", "No national flower but the chrysanthemum is used to symbolize the imperial family", "Indiana's flower is the tulip, Virginia's is the dogwood, Missouri's is the hawthorn, California's is the California poppy, Hawaii's is the hibiscus"],
+            "idx": "5_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the national flower of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["한국어, 한국 수어", "표준 중국어", "일본어", "영어"],
+            "idx": "6_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 공용어나 국어는 무엇인가요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["韩语, 韩国手语", "标准汉语", "日语", "英语"],
+            "idx": "6_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家的官方语言是什么？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["韓国語、韓国手話", "標準中国語", "日本語", "英語"],
+            "idx": "6_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の公用語や国語は何ですか？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["Korean, Korean Sign Language", "Standard Chinese", "Japanese", "English"],
+            "idx": "6_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's official language or national language?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["한민족 95.1%, 기타 4.9%", "한족 91.1%, 기타 8.9%", "불분명", "히스패닉과 라티노 17.4%, 이외 82.6%"],
+            "idx": "7_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 민족 구성은 어떻게 되어 있나요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["韩民族 95.1%，其他 4.9%", "汉族 91.1%，其他 8.9%", "不清楚", "西班牙裔和拉丁裔 17.4%，其余 82.6%"],
+            "idx": "7_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "贵国的民族构成是怎样的？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["韓民族 95.1%、その他 4.9%", "漢民族 91.1%、その他 8.9%", "不明", "ヒスパニックとラティーノ 17.4%、その他 82.6%"],
+            "idx": "7_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の民族構成はどうなっていますか？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["Korean ethnicity 95.1%, others 4.9%", "Han Chinese 91.1%, others 8.9%", "unclear", "Hispanic and Latino 17.4%, others 82.6%"],
+            "idx": "7_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How is the ethnic composition of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["2021년 기준 5,163만명", "2021년 기준 14억 1,260만 명", "2020년 기준 1억 2,596만명", "2020년 기준 3억 3,013만명"],
+            "idx": "8_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 인구는 몇 명인가요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["根据2021年 5163万名", "根据2021年 14亿1260万名", "根据2020年 1亿2596万名", "根据2020年 3亿3013万名"],
+            "idx": "8_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你国家的人口是多少？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["2021年基準 5163万人", "2021年基準 14億1260万人", "2020年基準 1億2596万人", "2020年基準 3億3013万人"],
+            "idx": "8_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の人口は何人ですか？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["As of 2021, 51.63 million people", "As of 2021, 1.4126 billion people", "As of 2020, 125.96 million people", "As of 2020, 330.13 million people"],
+            "idx": "8_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the population of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["507.0 (26위)", "140명/km2 (72위)", "334명/km2 (24위)", "33.57명/km2 (179위)"],
+            "idx": "9_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 인구 밀도는 어느 정도인가요?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["507.0 （第26位）", "140名/km2 （第72位）", "334名/km2 （第24位）", "33.57名/km2 （第179位）"],
+            "idx": "9_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的人口密度是多少？",
+            "type": "Overview"
+        },
+        {
+            "answers": ["507.0 (26位)", "140人/km2 (72位)", "334人/km2 (24位)", "33.57人/km2 (179位)"],
+            "idx": "9_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の人口密度はどのくらいですか?",
+            "type": "Overview"
+        },
+        {
+            "answers": ["507.0 (26th)", "140 people/km2 (72nd)", "334 people/km2 (24th)", "33.57 people/km2 (179th)"],
+            "idx": "9_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the population density of your country?",
+            "type": "Overview"
+        }
+    ],
+    [
+        {
+            "answers": ["100,410km2 (107위)", "9,596,960 km2 (4위)", "377,975 km2 (61위)", "9,834,000 km2 (3위~4위)"],
+            "idx": "10_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 면적이 어느 정도인가요?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["100,410平方公里 (第107位)", "9,596,960平方公里 (第4位)", "377,975平方公里 (第61位)", "9,834,000平方公里 (第3~4位)"],
+            "idx": "10_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家面积有多大？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["100,410平方キロメートル（107位）", "9,596,960平方キロメートル（4位）", "377,975平方キロメートル（61位）", "9,834,000平方キロメートル（3位～4位）"],
+            "idx": "10_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の面積はどのくらいですか？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["100,410 km² (107th)", "9,596,960 km² (4th)", "377,975 km² (61st)", "9,834,000 km² (3rd~4th)"],
+            "idx": "10_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the size of your country?",
+            "type": "Geography"
+        }
+    ],
+    [
+        {
+            "answers": ["동아시아의 한반도 군사 분계선 남부", "동아시아", "동아시아", "태평양에 위치한 하와이를 제외한 모든 주와 수도인 워싱턴 D.C.는 북아메리카 대륙에 위치"],
+            "idx": "11_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 어디에 위치한 국가인가요?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["东亚的朝鲜半岛军事分界线以南", "东亚", "东亚", "位于太平洋的夏威夷除外的所有州和首都华盛顿哥伦比亚特区都位于北美洲大陆"],
+            "idx": "11_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家是位于哪里的国家?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["동アジアの朝鮮半島軍事境界線南部", "東アジア", "東アジア", "太平洋に位置するハワイを除く全ての州と首都のワシントンD.C.は北米大陸に位置します"],
+            "idx": "11_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国はどこに位置している国ですか？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["In East Asia, south of the Korean Peninsula's Military Demarcation Line", "East Asia", "East Asia", "All states excluding Hawaii located in the Pacific and the capital, Washington D.C., are located on the North American continent"],
+            "idx": "11_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Where is your country located?",
+            "type": "Geography"
+        }
+    ],
+    [
+        {
+            "answers": ["서울", "베이징", "도쿄", "워싱턴 D.C."],
+            "idx": "12_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 수도는 어디인가요?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["首尔", "北京", "东京", "华盛顿D.C."],
+            "idx": "12_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家首都在哪里？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["ソウル", "北京", "東京", "ワシントン D.C."],
+            "idx": "12_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の首都はどこですか？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["Seoul", "Beijing", "Tokyo", "Washington D.C."],
+            "idx": "12_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the capital of your country?",
+            "type": "Geography"
+        }
+    ],
+    [
+        {
+            "answers": ["서울", "상하이 (도시 인구), 충칭 (행정 구역 인구)", "도쿄", "뉴욕"],
+            "idx": "13_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 최대 도시는 어디인가요?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["首尔", "上海（城市人口），重庆（行政区人口）", "东京", "纽约"],
+            "idx": "13_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家最大的城市在哪里？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["{ソウル", "上海 (都市人口), 重慶 (行政区域人口)", "東京", "ニューヨーク}"],
+            "idx": "13_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の最大の都市はどこですか？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["Seoul", "Shanghai (city population), Chongqing (administrative region population)", "Tokyo", "New York"],
+            "idx": "13_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the largest city in your country?",
+            "type": "Geography"
+        }
+    ],
+    [
+        {
+            "answers": ["0.3%", "2.8%", "0.8%", "6.76%"],
+            "idx": "14_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 내수면 비율이 어느 정도인가요?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["0.3%", "2.8%", "0.8%", "6.76%"],
+            "idx": "14_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "请问贵国的内陆水域比例是多少？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["0.3%", "2.8%", "0.8%", "6.76%"],
+            "idx": "14_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の内水面の割合はどのくらいですか？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["0.3%", "2.8%", "0.8%", "6.76%"],
+            "idx": "14_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the proportion of inland water in your country?",
+            "type": "Geography"
+        }
+    ],
+    [
+        {
+            "answers": ["KST (UTC+09:00)", "CST2 (UTC+08:00)", "JST (UTC+9)", "(UTC−4 ~ −12, +10, +11)"],
+            "idx": "15_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 시간대는 무엇인가요?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["KST (UTC+09:00)", "CST2 (UTC+08:00)", "JST (UTC+9)", "(UTC−4 ~ −12, +10, +11)"],
+            "idx": "15_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家时区是什么？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["KST (UTC+09:00)", "CST2 (UTC+08:00)", "JST (UTC+9)", "(UTC−4 ~ −12, +10, +11)"],
+            "idx": "15_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国のタイムゾーンは何ですか？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["KST (UTC+09:00)", "CST2 (UTC+08:00)", "JST (UTC+9)", "(UTC−4 ~ −12, +10, +11)"],
+            "idx": "15_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the time zone of your country?",
+            "type": "Geography"
+        }
+    ],
+    [
+        {
+            "answers": ["사계절", "사계절", "사계절", "사계절"],
+            "idx": "16_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 계절은 어떻게 나타나나요?",
+            "type": "Geography"
+        },
+        {
+            "answers": ["四季", "四季", "四季", "四季"],
+            "idx": "16_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的季节是怎样的？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["四季", "四季", "四季", "四季"],
+            "idx": "16_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の季節はどのように現れますか？",
+            "type": "Geography"
+        },
+        {
+            "answers": ["Four seasons", "Four seasons", "Four seasons", "Four seasons"],
+            "idx": "16_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How are the seasons represented in your country?",
+            "type": "Geography"
+        }
+    ],
+    [
+        {
+            "answers": ["단일국가, 단원제, 공화제, 대통령제", "단일국가, 일당제, 단원제, 공화제, 집단지도체제", "단일국가, 양원제, 입헌군주제, 의원내각제", "연방제, 양원제, 공화제, 대통령중심제"],
+            "idx": "17_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 정치 체제는 무엇인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["单一国家，一院制，共和制，总统制", "单一国家，一党制，一院制，共和制，集体领导体制", "单一国家，两院制，立宪君主制，议会内阁制", "联邦制，两院制，共和制，总统中心制"],
+            "idx": "17_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的政治制度是什么？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["単一国家、単一制、共和制、大統領制", "単一国家、一党制、単一制、共和制、集団指導体制", "単一国家、両院制、立憲君主制、議院内閣制", "連邦制、両院制、共和制、大統領中心制"],
+            "idx": "17_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の政治体制は何ですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Unitary state, unicameralism, republic, presidential system", "unitary state, one-party system, unicameralism, republic, collective leadership", "unitary state, bicameralism, constitutional monarchy, parliamentary system", "federalism, bicameralism, republic, presidential system"],
+            "idx": "17_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the political system of your country?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["2023년 기준 8.09 (22위)", "2.12 (148위)", "8.40 (16위)", "7.85 (29위)"],
+            "idx": "18_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 민주주의 수준은 어느 정도 인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["截至2023年 8.09（第22位）", "2.12（第148位）", "8.40（第16位）", "7.85（第29位）"],
+            "idx": "18_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的民主水平如何？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["2023年基準 8.09（22位）", "2.12（148位）", "8.40（16位）", "7.85（29位）"],
+            "idx": "18_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の民主主義の程度はどのくらいですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Based on the year 2023: 8.09 (22nd place)", "2.12 (148th place)", "8.40 (16th place)", "7.85 (29th place)"],
+            "idx": "18_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the level of democracy in your country?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["윤석열", "시진핑 (총서기, 주석)", "나루히토 (천황), 기시다 후미오 (내각총리대신)", "조 바이든"],
+            "idx": "19_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 대통령(지도자)은 누구인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["尹锡悦", "习近平（总书记，主席）", "德仁（天皇），岸田文雄（内阁总理大臣）", "乔·拜登"],
+            "idx": "19_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的总统（领袖）是谁？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["ユン・ソクヨル", "習近平 (総書記、主席)", "徳仁 (天皇), 岸田文雄 (内閣総理大臣)", "ジョー・バイデン"],
+            "idx": "19_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の大統領（指導者）は誰ですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yoon Suk-yeol", "Xi Jinping (General Secretary, President)", "Naruhito (Emperor), Fumio Kishida (Prime Minister)", "Joe Biden"],
+            "idx": "19_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Who is the president (leader) of your country?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["국민의힘", "중국공산당", "연립정부, 자유민주당, 공명당", "민주당"],
+            "idx": "20_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 집권여당은 무엇인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["国民之力", "中国共产党", "联合政府, 自由民主党, 公明党", "民主党"],
+            "idx": "20_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的执政党是什么？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["国民の力", "中国共産党", "連立政府, 自由民主党, 公明党", "民主党"],
+            "idx": "20_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の与党は何ですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["People Power Party", "Communist Party of China", "Coalition Government, Liberal Democratic Party, Komeito", "Democratic Party"],
+            "idx": "20_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the ruling party in your country?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["1948년 7월 17일", "1954년 9월 20일", "1947년 5월 3일", "1787년 9월 17일"],
+            "idx": "21_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 제헌 헌법은 언제 제정되었나요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["1948年7月17日", "1954年9月20日", "1947年5月3日", "1787年9月17日"],
+            "idx": "21_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家宪法是什么时候制定的？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["1948年7月17日", "1954年9月20日", "1947年5月3日", "1787年9月17日"],
+            "idx": "21_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の制定憲法はいつ制定されましたか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["July 17, 1948", "September 20, 1954", "May 3, 1947", "September 17, 1787"],
+            "idx": "21_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "When was the constitutional law of your country established?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["①대한민국은 민주공화국이다. ②대한민국의 주권은 국민에게 있고, 모든 권력은 국민으로부터 나온다.", "①중화인민공화국은 노동 계급이 지도하고 노농동맹을 기초로 하는 인민민주주의 독재의 사회주의 국가이다. ②사회주의 제도는 중화인민공화국의 근본제도이다. 중국공산당 영도는 중국특색사회주의 최고의 본질적 특성이다. 어떠한 조직이나 개인이 사회주의 제도를 파괴하는 것을 금지한다.", "천황은 일본국의 상징이며 일본 국민통합의 상징으로서 그 지위는 주권을 가진 일본 국민의 총의에 기초한다.", "이 헌법에 의하여 부여되는 모든 입법 권한은 미합중국 의회에 속하며, 의회는 상원과 하원으로 구성한다."],
+            "idx": "22_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 헌법 제 1조는 무엇인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["①大韩民国是民主共和国。②大韩民国的主权属于国民，所有权力皆由国民产生。", "①中华人民共和国是工人阶级领导、工农联盟为基础的人民民主专政的社会主义国家。②社会主义制度是中华人民共和国的根本制度。中国共产党的领导是中国特色社会主义最本质的特征。禁止任何组织或个人破坏社会主义制度。", "天皇是日本国的象征，是日本国民团结的象征，其地位基于拥有主权的日本国民的总意志。", "依据本宪法所赋予的一切立法权，属于美利坚合众国国会，国会由参议院和众议院组成。"],
+            "idx": "22_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家宪法的第一条是什么？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["①大韓民国は民主共和国である。②大韓民国の主権は国民にあり、すべての権力は国民から出る。", "①中華人民共和国は労働階級が指導し、労農同盟を基礎とする人民民主主義独裁の社会主義国家である。②社会主義制度は中華人民共和国の根本制度である。中国共産党の指導は、中国特色社会主義の最高の本質的特徴である。いかなる組織や個人も社会主義制度を破壊することを禁止する。", "天皇は日本国の象徴であり、日本国民統合の象徴としてその地位は主権のある日本国民の総意に基づく。", "この憲法によって付与されるすべての立法権はアメリカ合衆国議会に属し、議会は上院と下院で構成する。"],
+            "idx": "22_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の憲法第1条は何ですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["① The Republic of Korea is a democratic republic. ② The sovereignty of the Republic of Korea resides in the people, and all power comes from the people.", "① The People's Republic of China is a socialist state under the people's democratic dictatorship led by the working class and based on the alliance of workers and peasants. ② The socialist system is the fundamental system of the People's Republic of China. The leadership of the Communist Party of China is the most essential characteristic of socialism with Chinese characteristics. Any organization or individual is prohibited from undermining the socialist system.", "The Emperor is the symbol of the State and of the unity of the people, deriving his position from the will of the people with sovereign power.", "All legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives."],
+            "idx": "22_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is Article 1 of your country's constitution?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["네", "아니요", "네", "네"],
+            "idx": "23_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 복수정당제인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["是", "不是", "是", "是"],
+            "idx": "23_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家是多政党制吗?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["はい", "いいえ", "はい", "はい"],
+            "idx": "23_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国は複数政党制ですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yes", "No", "Yes", "Yes"],
+            "idx": "23_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Is your country a multi-party system?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["4년", "주석은 5년(연임 제한 없음)", "중의원은 4년, 참의원은 6년", "상원의원은 6년, 하원의원은 2년"],
+            "idx": "24_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국회의원의 임기는 얼마인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["4年", "主席是5年(无限连任)", "众议员是4年，参议员是6年", "参议员是6年，众议员是2年"],
+            "idx": "24_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "请问你们国家的国会议员任期是多久？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["4年", "主席は5年（再任制限なし）", "衆議院議員は4年、参議院議員は6年", "上院議員は6年、下院議員は2年"],
+            "idx": "24_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国会議員の任期はどれくらいですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["4 years", "Presidential term is 5 years (no term limit)", "House of Representatives term is 4 years, House of Councillors term is 6 years", "Senate term is 6 years, House of Representatives term is 2 years"],
+            "idx": "24_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the term length of a member of parliament in your country?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["5년", "주석은 5년(연임 제한 없음)", "내각총리대신은 4년", "4년"],
+            "idx": "25_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 대통령(지도자)의 임기는 얼마인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["5年", "主席任期为5年（无限连任）", "内阁总理大臣任期为4年", "4年"],
+            "idx": "25_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家总统（领导人）的任期是多久？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["5年", "主席は5年（再任制限なし）", "内閣総理大臣は4年", "4年"],
+            "idx": "25_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の大統領（指導者）の任期はどれくらいですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["5 years", "the president has a 5-year term (no limit on re-election)", "the Prime Minister of the Cabinet has a 4-year term", "4 years"],
+            "idx": "25_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How long is the term of your country's president (leader)?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["대법원 (헌법재판에 대해서는 헌법재판소)", "최고인민법원", "최고재판소", "미국 연방대법원"],
+            "idx": "26_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 최고 법원은 어디인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["最高法院 (对于宪法诉讼是宪法法院)", "最高人民法院", "最高法院", "美国联邦最高法院"],
+            "idx": "26_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的最高法院在哪里？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["大法院 (憲法裁判については憲法裁判所)", "最高人民法院", "最高裁判所", "アメリカ合衆国連邦最高裁判所"],
+            "idx": "26_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の最高裁判所はどこですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Supreme Court (Constitutional Court for constitutional trials)", "Supreme People's Court", "Supreme Court", "United States Supreme Court"],
+            "idx": "26_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Where is the highest court in your country?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["6년", "5년", "임기는 따로 없으며, 정년은 70세", "임기는 따로 없으며, 법을 지키는 한 계속 재임 가능, 스스로 그만두거나 탄핵당하지 않는 한 종신직 유지 가능"],
+            "idx": "27_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 최고 법원장의 임기는 얼마인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["6年", "5年", "没固定任期，退休年龄是70岁", "没固定任期，只要守法可以继续连任， 除非自行辞职或被弹劾，否则可终身任职"],
+            "idx": "27_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您所在国家的最高法院院长的任期是多长时间？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["任期は6年", "5年", "任期は別に定められておらず、定年は70歳", "任期は別になく、法律を守る限り続けて再任可能、自己辞任や弾劾されない限り終身職に留まることが可能"],
+            "idx": "27_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の最高裁判所長官の任期はどれくらいですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["No terms of 6 years", "5 years", "No fixed term, retirement age is 70 years old", "No fixed term, possible to continue as long as the law is followed, can hold the position for life unless one resigns voluntarily or is impeached"],
+            "idx": "27_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the term length of the chief justice in your country?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["17개", "34개", "47개", "50개의 주, 1개의 특별구"],
+            "idx": "28_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가에는 총 몇 개의 행정 구역이 있나요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["17个", "34个", "47个", "50个州, 1个特区"],
+            "idx": "28_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家一共有多少个行政区?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["17個", "34個", "47個", "50個の州、1個の特別区"],
+            "idx": "28_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国には全部でいくつの行政区域がありますか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["17 states", "34 states", "47 states", "50 states, 1 special district"],
+            "idx": "28_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How many administrative divisions does your country have?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["네", "네", "네", "네"],
+            "idx": "29_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 유엔(UN)의 구성원인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["是", "是", "是", "是"],
+            "idx": "29_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家是联合国(UN)的成员吗?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["はい", "はい", "はい", "はい"],
+            "idx": "29_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国は国連の構成員ですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yes", "Yes", "Yes", "Yes"],
+            "idx": "29_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Is your country a member of the United Nations (UN)?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["네", "네", "네", "네"],
+            "idx": "30_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 WTO의 구성원인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["是", "是", "是", "是"],
+            "idx": "30_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家是世贸组织的成员吗?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["はい", "はい", "はい", "はい"],
+            "idx": "30_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国はWTOのメンバーですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yes", "Yes", "Yes", "Yes"],
+            "idx": "30_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Is your country a member of the WTO?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["네", "네", "네", "네"],
+            "idx": "31_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 주요 20개국(G20)의 구성원인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["是", "是", "是", "是"],
+            "idx": "31_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家是G20的成员吗?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["はい", "はい", "はい", "はい"],
+            "idx": "31_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国はG20のメンバーですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yes", "Yes", "Yes", "Yes"],
+            "idx": "31_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Is your country a member of the G20?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["네 (회원국)", "네 (핵심 파트너, OECD 개발센터 회원국)", "네 (회원국)", "네 (회원국)"],
+            "idx": "32_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 경제 협력 개발 기구(OECD)의 구성원인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["是 (会员国)", "是 (核心伙伴, OECD 开发中心会员国)", "是 (会员国)", "是 (会员国)"],
+            "idx": "32_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家是经济合作与发展组织的成员吗?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["はい（加盟国）", "はい（主要パートナー、OECD開発センター加盟国）", "はい（加盟国）", "はい（加盟国）"],
+            "idx": "32_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国は経済協力開発機構（OECD）のメンバーですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yes (Member country)", "Yes (Key partner, OECD Development Center member country)", "Yes (Member country)", "Yes (Member country)"],
+            "idx": "32_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Is your country a member of the Organization for Economic Cooperation and Development (OECD)?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["네", "아니요", "네", "네"],
+            "idx": "33_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 개발 원조 위원회(DAC)의 구성원인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["是", "不是", "是", "是"],
+            "idx": "33_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家是发展援助委员会(DAC)的成员吗?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["はい", "いいえ", "はい", "はい"],
+            "idx": "33_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国は開発援助委員会(DAC)のメンバーですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yes", "No", "Yes", "Yes"],
+            "idx": "33_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Is your country a member of the Development Assistance Committee (DAC)?",
+            "type": "Politics"
+        }
+    ],
+        [{
+            "answers": ["네", "아니요 (중국 정부가 아니라 중국인민은행이 위임받아서 정회원이 아닌 특별회원으로 참가함)", "네", "네"],
+            "idx": "34_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 파리 클럽 회원국인가요?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["是", "不是（不是中国政府，而是中国人民银行受委托作为特别会员参加，不是正式会员）", "是", "是"],
+            "idx": "34_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家是巴黎俱乐部的成员国吗?",
+            "type": "Politics"
+        },
+        {
+            "answers": ["はい", "いいえ（中国政府ではなく中国人民銀行が委任されて正会員ではない特別会員として参加）", "はい", "はい"],
+            "idx": "34_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国はパリクラブの会員国ですか？",
+            "type": "Politics"
+        },
+        {
+            "answers": ["Yes", "No (Not the Chinese government, but the People's Bank of China was commissioned to participate as a special member rather than a full member)", "Yes", "Yes"],
+            "idx": "34_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Is your country a member of the Paris Club?",
+            "type": "Politics"
+        }
+    ],
+    [
+        {
+            "answers": ["2020년 12월 기준 현역 약 555,000명, 예비군 약 3,100,000명", "2019년 기준 인민해방군 총 병력이 230만명", "2019년 기준 24만 7157명", "140만명"],
+            "idx": "35_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 병력 규모는 얼마인가요?",
+            "type": "Military"
+        },
+        {
+            "answers": ["截至2020年12月，现役约555,000人，预备役约3,100,000人", "截至2019年，人民解放军总兵力为2,300,000人", "截至2019年，为247,157人", "1,400,000人"],
+            "idx": "35_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "请问贵国的军队规模有多大?",
+            "type": "Military"
+        },
+        {
+            "answers": ["2020年12月時点で現役約555,000人、予備軍約3,100,000人", "2019年時点で中国人民解放軍の総兵力は230万人", "2019年時点で247,157人", "140万人"],
+            "idx": "35_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の兵力規模はどれくらいですか？",
+            "type": "Military"
+        },
+        {
+            "answers": ["As of December 2020, there are approximately 555,000 active-duty soldiers and about 3,100,000 reservists", "As of 2019, the total strength of the People's Liberation Army is 2.3 million", "As of 2019, 247,157 people", "1.4 million people"],
+            "idx": "35_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the size of your country's military force?",
+            "type": "Military"
+        }
+    ],
+    [
+        {
+            "answers": ["징병제", "징병제", "모병제 (1945년 징병제 폐지, 1954년 자위대 창설이래 모병제 실시)", "모병제"],
+            "idx": "36_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 병역 제도는 무엇인가요?",
+            "type": "Military"
+        },
+        {
+            "answers": ["征兵制", "征兵制", "募兵制 (1945年征兵制废止，1954年自卫队创建以来实行募兵制)", "募兵制"],
+            "idx": "36_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家有何种兵役制度？",
+            "type": "Military"
+        },
+        {
+            "answers": ["徴兵制", "徴兵制", "募集兵制 (1945年徴兵制廃止、1954年自衛隊創設以来募集兵制実施)", "募集兵制"],
+            "idx": "36_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の兵役制度は何ですか？",
+            "type": "Military"
+        },
+        {
+            "answers": ["Conscription", "System of Conscription", "System of Volunteer Military Service (Abolished conscription in 1945, implemented the volunteer military service system since the establishment of the Self-Defense Forces in 1954)", "System of Volunteer Military Service"],
+            "idx": "36_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's military service system?",
+            "type": "Military"
+        }
+    ],
+    [
+        {
+            "answers": ["원 (KRW,₩)", "런민비 (위안) (CNY)", "엔(JPY, ¥) (JPY)", "달러 (USD)"],
+            "idx": "37_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 화폐 단위가 무엇인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["韩元 (KRW,₩)", "人民币 (CNY, ¥)", "日元 (JPY, ¥)", "美元 (USD)"],
+            "idx": "37_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的货币单位是什么？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["ウォン (KRW,₩)", "人民元 (CNY)", "円 (JPY, ¥) (JPY)", "ドル (USD)"],
+            "idx": "37_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の通貨単位は何ですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["Won (KRW, ₩)", "Renminbi (Yuan) (CNY)", "Yen (JPY, ¥)", "Dollar (USD)"],
+            "idx": "37_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the currency of your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["2021년 기준 $2조 2241억 (14위)", "2021년 기준 $27조 719억", "2020년 기준 $5조 4,514억 (4위)", "2020년 기준 22조 1911억$ (2위)"],
+            "idx": "38_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 전체 GDP는 얼마인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["根据2021年的数据 $222.41亿 (第14位)", "根据2021年的数据 $2707.19亿", "根据2020年的数据 $540.514亿 (第4位)", "根据2020年的数据 $2219.11亿 (第2位)"],
+            "idx": "38_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的总体GDP是多少？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2021年基準 $2兆2241億 (14位)", "2021年基準 $27兆719億", "2020年基準 $5兆4514億 (4位)", "2020年基準 22兆1911億$ (2位)"],
+            "idx": "38_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の全体のGDPはいくらですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["As of 2021, $222.41 billion (14th place)", "As of 2021, $2.70719 trillion", "As of 2020, $545.14 billion (4th place)", "As of 2020, $2.21911 trillion (2nd place)"],
+            "idx": "38_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the total GDP of your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["2021년 기준 $47,027 (25위)", "2021년 기준 $19,338", "2020년 기준 $46,827 (28위)", "2022년 기준 $76,329"],
+            "idx": "39_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 일인당 GDP는 얼마인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["根据2021年的数据 $47,027 (第25名)", "根据2021年的数据 $19,338", "根据2020年的数据 $46,827 (第28名)", "根据2022年的数据 $76,329"],
+            "idx": "39_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "贵国的人均GDP是多少？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2021年基準 $47,027 (25位)", "2021年基準 $19,338", "2020年基準 $46,827 (28位)", "2022年基準 $76,329"],
+            "idx": "39_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の一人当たりGDPはいくらですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["As of 2021, $47,027 (25th)", "As of 2021, $19,338", "As of 2020, $46,827 (28th)", "As of 2022, $76,329"],
+            "idx": "39_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How much is your country's GDP per capita?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["2021년 기준 $1조 8067억 (10위)", "2021년 기준 $16조 8,629억", "2020년 기준 $5조 1,544억 (3위)", "불분명"],
+            "idx": "40_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 전체 GDP(명목)는 얼마인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["根据2021年相关数据：1兆8067亿（第10位）", "根据2021年相关数据：16兆8629亿", "根据2020年相关数据：5兆1544亿（第3位）", "不明确"],
+            "idx": "40_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的名义国内生产总值（GDP）是多少？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2021年基準 $1兆 8067億 (10位)", "2021年基準 $16兆 8,629億", "2020年基準 $5兆 1,544億 (3位)", "不明"],
+            "idx": "40_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の名目GDPはどれくらいですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["As of 2021, $180.67 billion (10th place)", "As of 2021, $1.68629 trillion", "As of 2020, $51.544 billion (3rd place)", "Unclear"],
+            "idx": "40_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the nominal GDP of your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["2023년 기준 $55,040", "$24,380", "$52,640", "$82,190"],
+            "idx": "41_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 일인당 GNI는 얼마인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["根据2023年数据 $55,040", "$24,380", "$52,640", "$82,190"],
+            "idx": "41_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的人均国民总收入是多少？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2023年基準 $55,040", "$24,380", "$52,640", "$82,190"],
+            "idx": "41_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の一人当たりのGNIはいくらですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["As of 2023, $55,040", "$24,380", "$52,640", "$82,190"],
+            "idx": "41_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the per capita GNI of your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["2022년 기준 0.929 (19위)", "2014년 기준 0.719 (91위)", "2018년 기준 0.915 (19위)", "2016년 기준 0.914 (10위)"],
+            "idx": "42_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 HDI는 얼마인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["根据2022年的数据是0.929（第19位）", "根据2014年的数据是0.719（第91位）", "根据2018年的数据是0.915（第19位）", "根据2016年的数据是0.914（第10位）"],
+            "idx": "42_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家的HDI是多少？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2022年基準 0.929 (19位)", "2014年基準 0.719 (91位)", "2018年基準 0.915 (19位)", "2016年基準 0.914 (10位)"],
+            "idx": "42_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国のHDIはどのくらいですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["As of 2022, 0.929 (19th place)", "As of 2014, 0.719 (91st place)", "As of 2018, 0.915 (19th place)", "As of 2016, 0.914 (10th place)"],
+            "idx": "42_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's HDI?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["중국, 미국, EU, 일본 등", "아세안과 EU, 미국, 일본, 한국 등", "미국, 중국, 한국, 대만, 홍콩 등", "캐나다, 멕시코, 중국, 일본, 독일, 한국 등"],
+            "idx": "43_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 주요 무역 상대국은 어디인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["中国，美国，欧盟，日本等", "东盟与欧盟，美国，日本，韩国等", "美国，中国，韩国，台湾，香港等", "加拿大，墨西哥，中国，日本，德国，韩国等"],
+            "idx": "43_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家的主要贸易伙伴是哪些国家？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["中国、アメリカ、EU、日本 など", "ASEANとEU、アメリカ、日本、韓国 など", "アメリカ、中国、韓国、台湾、香港 など", "カナダ、メキシコ、中国、日本、ドイツ、韓国 など"],
+            "idx": "43_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の主要貿易相手国はどこですか。",
+            "type": "Economics"
+        },
+        {
+            "answers": ["China, USA, EU, Japan, etc.", "ASEAN and EU, USA, Japan, South Korea, etc.", "USA, China, South Korea, Taiwan, Hong Kong, etc.", "Canada, Mexico, China, Japan, Germany, South Korea, etc."],
+            "idx": "43_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Which countries are the main trade partners of your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["삼성전자, 현대, SK, 네이버, 카카오, LG, KT, 포스코, 한화 등", "바이두, 알리바바, 텐센트, 하이얼, 화웨이, SMIC, 샤오미, BOE 등", "도요타, 소니, 키엔스, NTT, 미츠비시, 소프트뱅크, KDDI, 패스트리테일링, 다이이치산쿄 등", "마이크로소프트, 애플, 엔비디아, 구글, 아마존, 메타, 인텔, IBM 등"],
+            "idx": "44_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 대표하는 기업은 무엇인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["三星电子、现代、SK、NAVER、Kakao、LG、KT、浦项制铁、韩华 等", "百度、阿里巴巴、腾讯、海尔、华为、中芯国际、小米、京东方 等", "丰田、索尼、基恩士、NTT、三菱、软银、KDDI、迅销、第一三共 等", "微软、苹果、英伟达、谷歌、亚马逊、Meta、英特尔、IBM 等"],
+            "idx": "44_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的代表性企业是什么?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["サムスン電子、現代、SK、ネイバー、カカオ、LG、KT、ポスコ、ハンファなど", "バイドゥ、アリババ、テンセント、ハイアール、ファーウェイ、SMIC、シャオミ、BOEなど", "トヨタ、ソニー、キーエンス、NTT、三菱、ソフトバンク、KDDI、ファーストリテイリング、大日本住友製薬など", "マイクロソフト、アップル、エヌビディア、グーグル、アマゾン、メタ、インテル、IBMなど"],
+            "idx": "44_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国を代表する企業は何ですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["Samsung Electronics, Hyundai, SK, Naver, Kakao, LG, KT, POSCO, Hanwha, etc.", "Baidu, Alibaba, Tencent, Haier, Huawei, SMIC, Xiaomi, BOE, etc.", "Toyota, Sony, Keyence, NTT, Mitsubishi, SoftBank, KDDI, Fast Retailing, Daiichi Sankyo, etc.", "Microsoft, Apple, Nvidia, Google, Amazon, Meta, Intel, IBM, etc."],
+            "idx": "44_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the leading company in your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["2024년 기준 시간급 9,860원", "2023년 기준 시간급 26.4위안", "2024년 기준 시간급 1054엔", "2024년 기준 25개 주에서 16~20달러"],
+            "idx": "45_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 최저 임금은 얼마인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["根据2024年的标准，时薪为9,860韩元", "根据2023年的标准，时薪为26.4元人民币", "根据2024年的标准，时薪为1054日元", "2024年标准在25个州时薪为16~20美元"],
+            "idx": "45_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的最低工资是多少？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2024年基準時間給9,860ウォン", "2023年基準時間給26.4人民元", "2024年基準時間給1054円", "2024年基準25か州で16～20ドル"],
+            "idx": "45_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の最低賃金はいくらですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["As of 2024, the hourly wage is 9,860 KRW", "As of 2023, the hourly wage is 26.4 CNY", "As of 2024, the hourly wage is 1054 JPY", "As of 2024, in 25 states, it is 16~20 USD"],
+            "idx": "45_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the minimum wage in your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["2021년 기준 0.32", "2021년 기준 0.38", "2018년 기준 0.41", "2021년 기준 0.37"],
+            "idx": "46_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 지니 계수는 얼마인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2021年 기준 0.32", "2021年 기준 0.38", "2018年 기준 0.41", "2021年 기준 0.37"],
+            "idx": "46_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的基尼系数是多少？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["2021年基準 0.32", "2021年基準 0.38", "2018年基準 0.41", "2021年基準 0.37"],
+            "idx": "46_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国のジニ係数はいくらですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["As of 2021, 0.32", "As of 2021, 0.38", "As of 2018, 0.41", "As of 2021, 0.37"],
+            "idx": "46_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the Gini coefficient of your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["서울 및 광역시", "상하이, 베이징", "도쿄, 오사카, 요코하마", "뉴욕, 로스앤젤레스, 댈러스, 샌프란시스코"],
+            "idx": "47_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 경제 중심 도시는 어디인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["首尔及广域市", "上海, 北京", "东京, 大阪, 横滨", "纽约, 洛杉矶, 达拉斯, 旧金山"],
+            "idx": "47_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的经济中心城市是哪里？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["ソウルおよび広域市", "上海、北京", "東京、大阪、横浜", "ニューヨーク、ロサンゼルス、ダラス、サンフランシスコ"],
+            "idx": "47_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の経済の中心都市はどこですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["Seoul and Metropolitan Cities", "Shanghai, Beijing", "Tokyo, Osaka, Yokohama", "New York, Los Angeles, Dallas, San Francisco"],
+            "idx": "47_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Where is the economic center city of your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["조선, 전자, 자동차, 반도체 등", "섬유 등 경공업, 가전, 자동차 및 선박, 공작기계 등 기계류, 철강 및 에틸렌 등의 소재 등", "자동차산업, 기계산업, 전자산업, 물질산업, 에너지산업 등", "석유, 철강, 자동차, 우주 항공, 통신, 화학, 전자, 식품 가공, 소비재, 목재, 광산 등"],
+            "idx": "48_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 주요 산업은 무엇인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["造船、电子、汽车、半导体等", "纺织等轻工业、家电、汽车及船舶、工作机械等机械类、钢铁与乙烯等材料等", "汽车产业、机械产业、电子产业、物质产业、能源产业等", "石油、钢铁、汽车、航空航天、通信、化学、电子、食品加工、消费品、木材、矿业等"],
+            "idx": "48_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的主要产业是什么？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["造船、電子、自動車、半導体など", "繊維などの軽工業、家電、自動車および船舶、工作機械などの機械類、鉄鋼およびエチレンなどの素材など", "自動車産業、機械産業、電子産業、物質産業、エネルギー産業など", "石油、鉄鋼、自動車、宇宙航空、通信、化学、電子、食品加工、消費財、木材、鉱山など"],
+            "idx": "48_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の主要な産業は何ですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["Shipbuilding, electronics, automobiles, semiconductors, etc.", "Light industries such as textiles, machinery such as home appliances, automobiles and ships, machine tools, steel and materials such as ethylene, etc.", "Automobile industry, machinery industry, electronics industry, materials industry, energy industry, etc.", "Petroleum, steel, automobiles, aerospace, telecommunications, chemicals, electronics, food processing, consumer goods, wood, mining, etc."],
+            "idx": "48_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What are the major industries in your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["우측 통행", "우측 통행 (홍콩은 좌측 통행)", "보행자는 우측통행, 자전거나 자동차는 좌측통행", "우측 통행"],
+            "idx": "49_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가는 우측 통행과 좌측 통행 중 무엇인가요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["请靠右通行", "请靠右通行（香港车辆靠左行驶）", "行人靠右通行，自行车或车辆靠左行驶", "请靠右通行"],
+            "idx": "49_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家是右侧通行还是左侧通行？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["右側通行", "右側通行 (香港は左側通行)", "歩行者は右側通行、自転車や自動車は左側通行", "右側通行"],
+            "idx": "49_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国は右側通行と左側通行のうち何ですか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["Keep to the right", "Keep to the right (In Hong Kong, keep to the left)", "Pedestrians keep to the right, bicycles and cars keep to the left", "Keep to the right"],
+            "idx": "49_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country, right-hand traffic or left-hand traffic?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["왼쪽", "왼쪽", "오른쪽", "왼쪽"],
+            "idx": "50_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 자동차 운전석은 어디에 있나요?",
+            "type": "Economics"
+        },
+        {
+            "answers": ["左", "左", "右", "左"],
+            "idx": "50_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的汽车驾驶座在哪边？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["左", "左", "右", "左"],
+            "idx": "50_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の運転席はどこにありますか？",
+            "type": "Economics"
+        },
+        {
+            "answers": ["Left", "Left", "Right", "Left"],
+            "idx": "50_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Where is the driver's seat in your country?",
+            "type": "Economics"
+        }
+    ],
+    [
+        {
+            "answers": ["초등학교 6년, 중학교 3년", "9년 의무교육제", "초등학교 6년, 중학교 3년", "12년 의무교육제 (각 주마다 규정과 적용에 차이가 있지만 일반적으로 5~6세부터 16~17세까지)"],
+            "idx": "51_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 의무교육 제도는 어떻게 되어 있나요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["小学6年，中学3年", "9年义务教育制度", "小学6年，中学3年", "12年义务教育制度（各州的规定和适用有所不同，但通常从5-6岁到16-17岁）"],
+            "idx": "51_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的义务教育制度是怎样的？",
+            "type": "Society"
+        },
+        {
+            "answers": ["小学校6年間、中学校3年間", "9年間の義務教育制度", "小学校6年間、中学校3年間", "12年間の義務教育制度（州ごとに規定や適用に差があるが、一般的に5～6歳から16～17歳まで）"],
+            "idx": "51_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の義務教育制度はどのようになっていますか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["Elementary school for 6 years, middle school for 3 years", "9 years of compulsory education", "elementary school for 6 years, middle school for 3 years", "12 years of compulsory education (Regulations and implementation vary by state, but generally from ages 5-6 to 16-17)"],
+            "idx": "51_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the compulsory education system like in your country?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2020년 CIA 월드 팩트북 기준 81.4%", "61.4%", "91.8%", "82.7%"],
+            "idx": "52_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 도시화율은 어느 정도인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["以2020年中情局世界概况为准 81.4%", "61.4%", "91.8%", "82.7%"],
+            "idx": "52_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "贵国的城市化率是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2020年CIAワールド・ファクトブック基準 81.4%", "61.4%", "91.8%", "82.7%"],
+            "idx": "52_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の都市化率はどのくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2020, according to the CIA World Factbook: 81.4%", "61.4%", "91.8%", "82.7%"],
+            "idx": "52_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the urbanization rate of your country?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2021년 기준 0.81명", "2021년 기준 1.16명", "2021년 기준 1.30명", "2021년 기준 1.66명"],
+            "idx": "53_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 합계출산율(여성 한 명이 평생 동안 낳는 자녀 수)은 어느 정도인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["以2021年为准 0.81人", "以2021年为准 1.16人", "以2021年为准 1.30人", "以2021年为准 1.66人"],
+            "idx": "53_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的总和生育率（一个女性一生中生育的子女人数）是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2021年基準 0.81人", "2021年基準 1.16人", "2021年基準 1.30人", "2021年基準 1.66人"],
+            "idx": "53_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の合計特殊出生率（女性が一生のうちに産む子供の数）はどのくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2021, 0.81 persons", "as of 2021, 1.16 persons", "as of 2021, 1.30 persons", "as of 2021, 1.66 persons"],
+            "idx": "53_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the total fertility rate (the average number of children a woman will have during her lifetime) in your country?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["73.7%", "80% 이상", "56.6%", "80%"],
+            "idx": "54_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 대학 진학률은 무엇인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["73.7%", "80%以上", "56.6%", "80%"],
+            "idx": "54_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的大学入学率是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["73.7%", "80%以上", "56.6%", "80%"],
+            "idx": "54_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の大学進学率はどのくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["73.7%", "Over 80%", "56.6%", "80%"],
+            "idx": "54_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the college enrollment rate in your country?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2013년 기준 7.25 (19위)", "5.99 (49위)", "7.08 (25위)", "7.38 (16위)"],
+            "idx": "55_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 삶의 질 지수는 어느 정도인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["截至2013年 7.25 (第19位)", "5.99 (第49位)", "7.08 (第25位)", "7.38 (第16位)"],
+            "idx": "55_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的生活质量指数是多少?",
+            "type": "Society"
+        },
+        {
+            "answers": ["2013年基準 7.25 (19位)", "5.99 (49位)", "7.08 (25位)", "7.38 (16位)"],
+            "idx": "55_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の生活の質指数はどれくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2013, 7.25 (19th place)", "5.99 (49th place)", "7.08 (25th place)", "7.38 (16th place)"],
+            "idx": "55_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the quality of life index in your country?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2023년 기준 5.951점 (35위)", "64위", "6.129점 (47위)", "6.894점 (15위)"],
+            "idx": "56_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국민 행복 지수는 어느 정도인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["根据2023年的数据：5.951分（第35位）", "第64位", "6.129分（第47位）", "6.894分（第15位）"],
+            "idx": "56_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "贵国的国民幸福指数是多少呢？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2023年基準 5.951点 (35位)", "64位", "6.129点 (47位)", "6.894点 (15位)"],
+            "idx": "56_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国民幸福度はどのくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2023: 5.951 points (35th place)", "64th place", "6.129 points (47th place)", "6.894 points (15th place)"],
+            "idx": "56_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the level of your country's national happiness index?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2022년 기준 인구 10만명 당 자살률 25.7", "8.5", "15.4", "12.6"],
+            "idx": "57_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 자살률은 어느 정도인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["以2022年为准，每10万人中的自杀率达到25.7", "8.5", "15.4", "12.6人的自杀率"],
+            "idx": "57_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的自杀率是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2022年基準人口10万人当たりの自殺率25.7", "8.5", "15.4", "12.6"],
+            "idx": "57_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の自殺率はどれくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2022, the suicide rates per 100,000 people are 25.7", "8.5", "15.4", "12.6"],
+            "idx": "57_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How high is the suicide rate in your country?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2022년 기준 63", "45", "73", "69"],
+            "idx": "58_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 부패 인식 지수는 어느 정도인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["以2022年为准 63", "45", "73", "69"],
+            "idx": "58_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的腐败感知指数是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2022年基準 63", "45", "73", "69"],
+            "idx": "58_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の腐敗認識指数はどれくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2022: 63", "45", "73", "69"],
+            "idx": "58_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's Corruption Perception Index?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2024년 기준 20위", "14위", "38위", "12위"],
+            "idx": "59_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국가 경쟁력 순위는 어떻게 되나요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["根据2024年的排名，分别是第20位", "第14位", "第38位", "第12位"],
+            "idx": "59_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "贵国的国家竞争力排名如何？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2024年基準 20位", "14位", "38位", "12位"],
+            "idx": "59_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国際競争力ランキングはどうなっていますか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2024, ranked 20th", "14th", "38th", "12th"],
+            "idx": "59_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How does your country's global competitiveness rank?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2023년 기준 223.60 Mbps", "83.14 Mbps", "139.27 Mbps", "205.22 Mbps"],
+            "idx": "60_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 인터넷 속도(평균 다운로드 속도)는 어떻게 되나요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["截至2023年 223.60 Mbps", "83.14 Mbps", "139.27 Mbps", "205.22 Mbps"],
+            "idx": "60_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的互联网速度（平均下载速度）是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2023年基準で223.60 Mbps", "83.14 Mbps", "139.27 Mbps", "205.22 Mbps"],
+            "idx": "60_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国のインターネット速度（平均ダウンロード速度）はどのくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["As of 2023, 223.60 Mbps", "83.14 Mbps", "139.27 Mbps", "205.22 Mbps"],
+            "idx": "60_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's internet speed (average download speed)?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["무종교 56.1%, 개신교 19.7%, 불교 15.5%, 천주교 7.9%, 기타 0.8%", "무교 및 중국 전통 종교 73.56%, 불교 15.87%, 기타 7.62%, 기독교 2.51%, 이슬람교 0.45%", "신도 49%, 불교 46%, 기타 4%, 크리스트교 1%", "개신교 42%, 천주교 21%, 비종교 18%, 불가지론 6%, 무신론 5%, 모르몬교 2%, 유대교 1%, 이슬람교 1%, 힌두교 1%, 불교 1%, 무응답 1%, 동방 정교회 0.5%, 기타 0.5%"],
+            "idx": "61_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 종교 구성은 어떻게 되어 있나요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["无宗教 56.1%、基督教新教 19.7%、佛教 15.5%、天主教 7.9%、其他 0.8%", "无宗教及中国传统宗教 73.56%、佛教 15.87%、其他 7.62%、基督教 2.51%、伊斯兰教 0.45%", "神道 49%、佛教 46%、其他 4%、基督教 1%", "基督教新教 42%、天主教 21%、非宗教 18%、不可知论 6%、无神论 5%、摩门教 2%、犹太教 1%、伊斯兰教 1%、印度教 1%、佛教 1%、无应答 1%、东正教 0.5%、其他 0.5%"],
+            "idx": "61_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家的宗教构成是怎样的？",
+            "type": "Society"
+        },
+        {
+            "answers": ["無宗教 56.1%、プロテスタント 19.7%、仏教 15.5%、カトリック 7.9%、その他 0.8%", "無宗教及び中国伝統宗教 73.56%、仏教 15.87%、その他 7.62%、キリスト教 2.51%、イスラム教 0.45%", "神道 49%、仏教 46%、その他 4%、キリスト教 1%", "プロテスタント 42%、カトリック 21%、無宗教 18%、不可知論 6%、無神論 5%、モルモン教 2%、ユダヤ教 1%、イスラム教 1%、ヒンドゥー教 1%、仏教 1%、無回答 1%、東方正教会 0.5%、その他 0.5%"],
+            "idx": "61_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の宗教構成はどのようになっていますか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["No religion 56.1%, Protestantism 19.7%, Buddhism 15.5%, Catholicism 7.9%, Others 0.8%", "No religion and Chinese traditional religions 73.56%, Buddhism 15.87%, Others 7.62%, Christianity 2.51%, Islam 0.45%", "Shinto 49%, Buddhism 46%, Others 4%, Christianity 1%", "Protestantism 42%, Catholicism 21%, Non-religious 18%, Agnosticism 6%, Atheism 5%, Mormonism 2%, Judaism 1%, Islam 1%, Hinduism 1%, Buddhism 1%, No response 1%, Eastern Orthodoxy 0.5%, Others 0.5%"],
+            "idx": "61_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the religious composition of your country?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["방탄소년단, BLACKPINK, 트와이스, 아이유, 싸이 등", "왕페이 등", "호시노 겐, 요네즈 켄시, SEKAI NO OWARI, amazarashi, 요루시카, YOASOBI, Eve 등", "드레이크, 칸예 웨스트, 케드릭 라마, 브루노 마스, 레이디 가가, 샘 스미스, 마룬 5, 카디 비, 아델, 아리아나 그란데, 테일러 스위프트, 에드 시런, 저스틴 비버, 빌리 아일리시, 해리 스타일스, 숀 멘데스, 찰리 푸스, 비욘세, 올리비아 로드리고, 두아 리파, 더 위켄드, 포스트 말론, 실크 소닉 등"],
+            "idx": "62_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 대표적인 대중 음악 가수는 누가 있나요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["防弹少年团, BLACKPINK, TWICE, IU, PSY 等", "王菲 等", "星野源, 米津玄师, SEKAI NO OWARI, amazarashi, ヨルシカ, YOASOBI, Eve 等", "德雷克, 肯伊·威斯特, 肯德里克·拉马尔, 布鲁诺·马尔斯, Lady Gaga, Sam Smith, 魔力红, Cardi B, Adele, Ariana Grande, Taylor Swift, Ed Sheeran, Justin Bieber, Billie Eilish, Harry Styles, Shawn Mendes, Charlie Puth, Beyonce, Olivia Rodrigo, Dua Lipa, The Weeknd, Post Malone, Silk Sonic 等"],
+            "idx": "62_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家有哪位著名的流行音乐歌手？",
+            "type": "Society"
+        },
+        {
+            "answers": ["防弾少年団、BLACKPINK、TWICE、IU、PSY など", "王飛 など", "星野源、米津玄師、SEKAI NO OWARI、amazarashi、ヨルシカ、YOASOBI、Eve など", "ドレイク、カニエ・ウェスト、ケンドリック・ラマー、ブルーノ・マーズ、レディー・ガガ、サム・スミス、マルーン5、カーディ・B、アデル、アリアナ・グランデ、テイラー・スウィフト、エド・シーラン、ジャスティン・ビーバー、ビリー・アイリッシュ、ハリー・スタイルズ、ショーン・メンデス、チャーリー・プース、ビヨンセ、オリヴィア・ロドリゴ、デュア・リパ、ザ・ウィークエンド、ポスト・マローン、シルク・ソニック など"],
+            "idx": "62_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の代表的な大衆音楽歌手は誰ですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["BTS, BLACKPINK, TWICE, IU, PSY, etc.", "Faye Wong, etc.", "Kenshi Yonezu, GEN HOSHINO, SEKAI NO OWARI, amazarashi, Yorushika, YOASOBI, Eve, etc.", "Drake, Kanye West, Kendrick Lamar, Bruno Mars, Lady Gaga, Sam Smith, Maroon 5, Cardi B, Adele, Ariana Grande, Taylor Swift, Ed Sheeran, Justin Bieber, Billie Eilish, Harry Styles, Shawn Mendes, Charlie Puth, Beyonce, Olivia Rodrigo, Dua Lipa, The Weeknd, Post Malone, Silk Sonic, etc."],
+            "idx": "62_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "In your country, who are the prominent pop music singers?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["양궁, 사격, 쇼트트랙, 태권도 등", "탁구, 배드민턴, 다이빙, 체조 등", "유도, 레슬링, 복싱 등", "육상, 수영, 기계체조, 농구, 복싱, 레슬링, 여자축구, 비치발리볼, 골프, 사격, 테니스, 스노보드, 프리스타일 스키, 피겨 스케이팅 등"],
+            "idx": "63_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 올림픽에서 강세를 보이는 종목으로는 무엇이 있나요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["射箭, 射击, 短道速滑, 跆拳道等", "乒乓球, 羽毛球, 跳水, 体操等", "柔道, 摔跤, 拳击等", "田径, 游泳, 器械体操, 篮球, 拳击, 摔跤, 女子足球, 沙滩排球, 高尔夫, 射击, 网球, 单板滑雪, 自由式滑雪, 花样滑冰等"],
+            "idx": "63_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家在奥运会上表现出色的项目有哪些？",
+            "type": "Society"
+        },
+        {
+            "answers": ["アーチェリー、射撃、ショートトラック、テコンドーなど", "卓球、バドミントン、ダイビング、体操など", "柔道、レスリング、ボクシングなど", "陸上、 水泳、 器械体操、 バスケットボール、 ボクシング、 レスリング、 女子サッカー、 ビーチバレー、 ゴルフ、 射撃、 テニス、 スノーボード、 フリースタイルスキー、 フィギュアスケートなど"],
+            "idx": "63_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国のオリンピックで強さを見せる種目は何ですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["Archery, Shooting, Short Track, Taekwondo, etc.", "Table Tennis, Badminton, Diving, Gymnastics, etc.", "Judo, Wrestling, Boxing, etc.", "Track and Field, Swimming, Artistic Gymnastics, Basketball, Boxing, Wrestling, Women's Soccer, Beach Volleyball, Golf, Shooting, Tennis, Snowboarding, Freestyle Skiing, Figure Skating, etc."],
+            "idx": "63_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "Which events does your country excel in at the Olympics?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["1988 서울 올림픽 종합 4위", "2008 베이징 올림픽 종합 1위", "1964 도쿄 올림픽, 1968 멕시코시티 올림픽, 2020 도쿄 올림픽 종합 3위", "10회를 제외하고, 출전 시 모두 1위 (1위가 아니더라도 2,3위)"],
+            "idx": "64_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 하계올림픽 최고 기록은 무엇인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["1988年首尔奥运会综合第4名", "2008年北京奥运会综合第1名", "1964年东京奥运会、1968年墨西哥城奥运会、2020年东京奥运会综合第3名", "除第10次以外，参赛时均获得第1名（即使不是第1名也获得第2、3名）"],
+            "idx": "64_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "贵国在夏季奥运会上的最高纪录是什么？",
+            "type": "Society"
+        },
+        {
+            "answers": ["1988 ソウルオリンピック 総合4位", "2008 北京オリンピック 総合1位", "1964 東京オリンピック、1968 メキシコシティオリンピック、2020 東京オリンピック 総合3位", "10回を除き、出場時ともに1位（1位でなくても2、3位"],
+            "idx": "64_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の夏季オリンピックの最高記録は何ですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["1988 Seoul Olympics overall 4th place", "2008 Beijing Olympics overall 1st place", "1964 Tokyo Olympics, 1968 Mexico City Olympics, 2020 Tokyo Olympics overall 3rd place", "1st place in all competitions (2nd and 3rd place, if not 1st place) except for 10 times"],
+            "idx": "64_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's best record in the Summer Olympics?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2010 밴쿠버 동계올림픽 종합 5위", "2022 베이징 동계올림픽 종합 3위", "1998 나가노 동계올림픽 종합 5위", "1932 레이크플레시드 동계올림픽대회 종합 1위"],
+            "idx": "65_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 동계올림픽 최고 기록은 무엇인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["2010 温哥华冬奥会综合第5位", "2022 北京冬奥会综合第3位", "1998 长野冬奥会综合第5位", "1932 普莱西德湖冬奥会综合第1位"],
+            "idx": "65_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你们国家的冬奥会最好成绩是什么？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2010年バンクーバー冬季オリンピック総合5位", "2022年北京冬季オリンピック総合3位", "1998年長野冬季オリンピック総合5位", "1932年レークプラシッド冬季オリンピック大会総合1位"],
+            "idx": "65_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の冬季オリンピック最高記録は何ですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2010 Vancouver Winter Olympics Overall 5th Place", "2022 Beijing Winter Olympics Overall 3rd Place", "1998 Nagano Winter Olympics Overall 5th Place", "1932 Lake Placid Winter Olympics Overall 1st Place"],
+            "idx": "65_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's best record in the Winter Olympics?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["1988 서울 올림픽 33개", "2008 베이징 올림픽 100개", "2020 도쿄 올림픽 58개", "1904 세인트루이스 올림픽 231개"],
+            "idx": "66_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 하계올림픽 최고 메달 수는 몇 개인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["1988年首尔奥运会 33个", "2008年北京奥运会 100个", "2020年东京奥运会 58个", "1904年圣路易斯奥运会 231个"],
+            "idx": "66_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的夏季奥运会最高奖牌数是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["1988年ソウルオリンピック 33個", "2008年北京オリンピック 100個", "2020年東京オリンピック 58個", "1904年セントルイスオリンピック 231個"],
+            "idx": "66_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の夏季オリンピックでの最高メダル数はどれくらいですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["1988 Seoul Olympics 33", "2008 Beijing Olympics 100", "2020 Tokyo Olympics 58", "1904 St. Louis Olympics 231"],
+            "idx": "66_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the highest number of medals your country has won in the Summer Olympics?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["2018년 평창 동계올림픽 17개", "2022 베이징 동계올림픽 15개", "2022 베이징 동계올림픽 18개", "2010 벤쿠버 동계올림픽 38개"],
+            "idx": "67_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 동계올림픽 최고 메달 수는 몇 개인가요?",
+            "type": "Society"
+        },
+        {
+            "answers": ["2018年平昌冬奥会 17个", "2022年北京冬奥会 15个", "2022年北京冬奥会 18个", "2010年温哥华冬奥会 38个"],
+            "idx": "67_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的冬奥会最高奖牌数是多少？",
+            "type": "Society"
+        },
+        {
+            "answers": ["2018年平昌冬季オリンピック 17個", "2022年北京冬季オリンピック 15個", "2022年北京冬季オリンピック 18個", "2010年バンクーバー冬季オリンピック 38個"],
+            "idx": "67_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の冬季オリンピックの最高メダル数は何個ですか？",
+            "type": "Society"
+        },
+        {
+            "answers": ["17 events at the 2018 Pyeongchang Winter Olympics", "15 events at the 2022 Beijing Winter Olympics", "18 events at the 2022 Beijing Winter Olympics", "38 events at the 2010 Vancouver Winter Olympics"],
+            "idx": "67_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "How many Winter Olympics medals has your country won at most?",
+            "type": "Society"
+        }
+    ],
+    [
+        {
+            "answers": ["410, KR, KOR", "156, CN, CHN", "392, JP, JPN", "840, US, USA"],
+            "idx": "68_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 ISO 3166-1은 무엇인가요?",
+            "type": "Etc"
+        },
+        {
+            "answers": ["410, KR, KOR", "156, CN, CHN", "392, JP, JPN", "840, US, USA"],
+            "idx": "68_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您的国家的ISO 3166-1是什么？",
+            "type": "Etc"
+        },
+        {
+            "answers": ["410, KR, KOR", "156, CN, CHN", "392, JP, JPN", "840, US, USA"],
+            "idx": "68_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国のISO 3166-1は何ですか？",
+            "type": "Etc"
+        },
+        {
+            "answers": ["410, KR, KOR", "156, CN, CHN", "392, JP, JPN", "840, US, USA"],
+            "idx": "68_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's ISO 3166-1 code?",
+            "type": "Etc"
+        }
+    ],
+    [
+        {
+            "answers": [".kr, .한국", ".cn", ".jp", ".gov .edu .mil .us .um"],
+            "idx": "69_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 도메인은 무엇인가요?",
+            "type": "Etc"
+        },
+        {
+            "answers": [".kr, .한국", ".cn", ".jp", ".gov .edu .mil .us .um"],
+            "idx": "69_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "您国家的域名是什么？",
+            "type": "Etc"
+        },
+        {
+            "answers": [".kr, .한국", ".cn", ".jp", ".gov .edu .mil .us .um"],
+            "idx": "69_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国のドメインは何ですか?",
+            "type": "Etc"
+        },
+        {
+            "answers": [".kr, .한국", ".cn", ".jp", ".gov .edu .mil .us .um"],
+            "idx": "69_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is your country's domain?",
+            "type": "Etc"
+        }
+    ],
+    [
+        {
+            "answers": ["+82", "+86", "+81", "+1"],
+            "idx": "70_KR",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "당신 국가의 국제 전화는 무엇인가요?",
+            "type": "Etc"
+        },
+        {
+            "answers": ["+82", "+86", "+81", "+1"],
+            "idx": "70_CN",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "你的国家的国际电话代码是多少？",
+            "type": "Etc"
+        },
+        {
+            "answers": ["+82", "+86", "+81", "+1"],
+            "idx": "70_JP",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "あなたの国の国際電話番号は何ですか？",
+            "type": "Etc"
+        },
+        {
+            "answers": ["+82", "+86", "+81", "+1"],
+            "idx": "70_US",
+            "nationalities": ["KR", "CN", "JP", "US"],
+            "question": "What is the international dialing code for your country?",
+            "type": "Etc"
+        }
+    ]
+]

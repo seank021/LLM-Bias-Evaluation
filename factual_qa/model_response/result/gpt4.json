@@ -1,0 +1,3362 @@
+[
+    {
+        "idx": 1,
+        "KR": {
+            "question": "당신 국가의 국가명이 무엇인가요?",
+            "response": "대한민국입니다.",
+            "answers": [
+                {
+                    "KR": "대한민국 (한국)"
+                },
+                {
+                    "US": "미합중국 (미국)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家名字是什么？",
+            "response": "中国",
+            "answers": [
+                {
+                    "CN": "中华人民共和国 (中国)"
+                },
+                {
+                    "US": "美利坚合众国 (美国)"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国名は何ですか？",
+            "response": "日本です。",
+            "answers": [
+                {
+                    "JP": "日本国 (日本)"
+                },
+                {
+                    "US": "アメリカ合衆国 (アメリカ)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the name of your country?",
+            "response": "United States of America",
+            "answers": [
+                {
+                    "US": "United States of America (USA)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 2,
+        "KR": {
+            "question": "당신 국가의 국가명의 공식 영어 명칭은 무엇인가요?",
+            "response": "The Republic of Korea",
+            "answers": [
+                {
+                    "KR": "Republic of Korea"
+                },
+                {
+                    "US": "United States of America"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的官方英文名称是什么？",
+            "response": "The official English name of my country is \"The People's Republic of China\".",
+            "answers": [
+                {
+                    "CN": "China"
+                },
+                {
+                    "US": "United States of America"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国名の公式英語名称は何ですか？",
+            "response": "The official English name of my country is Japan.",
+            "answers": [
+                {
+                    "JP": "Japan"
+                },
+                {
+                    "US": "United States of America"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the official English name of your country?",
+            "response": "The United States of America",
+            "answers": [
+                {
+                    "US": "United States of America"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 3,
+        "KR": {
+            "question": "당신 국가의 국기는 무엇인가요? ",
+            "response": "국기는 파란색, 빨간색, 흰색의 세로 줄무늬입니다.",
+            "answers": [
+                {
+                    "KR": "태극기"
+                },
+                {
+                    "US": "성조기"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你国家的国旗是什么样的？",
+            "response": "作为一个人工智能，我没有特定的国家。但是，我可以为你提供任何国家的国旗信息。",
+            "answers": [
+                {
+                    "CN": "五星红旗"
+                },
+                {
+                    "US": "星条旗"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国旗は何ですか?",
+            "response": "私の国の国旗は赤と白のストライプです。",
+            "answers": [
+                {
+                    "JP": "日章旗"
+                },
+                {
+                    "US": "星条旗"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the flag of your country?",
+            "response": "As an AI, I don't have a country. However, I can provide information about any country's flag if specified.",
+            "answers": [
+                {
+                    "US": "Stars and Stripes (Flag of the United States)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 4,
+        "KR": {
+            "question": "당신 국가의 국가는 무엇인가요?",
+            "response": "국가는 \"애국가\"입니다.",
+            "answers": [
+                {
+                    "KR": "애국가"
+                },
+                {
+                    "US": "별이 빛나는 깃발"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的国歌是什么？",
+            "response": "由于您没有指定特定的国家，我无法提供准确的答案。",
+            "answers": [
+                {
+                    "CN": "义勇军进行曲"
+                },
+                {
+                    "US": "星条旗"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国歌は何ですか？",
+            "response": "私の国の国歌は「君が代」です。",
+            "answers": [
+                {
+                    "JP": "君が代"
+                },
+                {
+                    "US": "星条旗"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the national anthem of your country?",
+            "response": "The Star-Spangled Banner",
+            "answers": [
+                {
+                    "US": "The Star-Spangled Banner"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 5,
+        "KR": {
+            "question": "당신 국가의 국화는 무엇인가요?",
+            "response": "장미입니다.",
+            "answers": [
+                {
+                    "KR": "무궁화"
+                },
+                {
+                    "US": "인디애나주는 튤립, 버지니아주는 미국산딸나무, 미주리주는 산사나무, 캘리포니아주는 캘리포니아포피, 하와이주는 히비스커스"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的国花是什么？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以为你查找任何国家的国花。",
+            "answers": [
+                {
+                    "CN": "正式名称为“无”"
+                },
+                {
+                    "US": "印第安纳州的州花是郁金香，弗吉尼亚州的州花是美国山茱萸，密苏里州的州花是山楂，加利福尼亚州的州花是加利福尼亚罂粟，夏威夷州的州花是芙蓉"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国花は何ですか？",
+            "response": "桜です。",
+            "answers": [
+                {
+                    "JP": "国花はないが、皇室を象徴する花として菊花を使用"
+                },
+                {
+                    "US": "インディアナ州はチューリップ、バージニア州はアメリカヤマボウシ、ミズーリ州はサンザシ、カリフォルニア州はカリフォルニアポピー、ハワイ州はハイビスカス"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the national flower of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can tell you that the national flower varies depending on the country in question. For example, the national flower of the United States is the Rose, for Japan it's the Chrysanthemum, for India it's the Lotus, and for England it's the Rose.",
+            "answers": [
+                {
+                    "US": "Indiana's flower is the tulip, Virginia's is the dogwood, Missouri's is the hawthorn, California's is the California poppy, Hawaii's is the hibiscus}"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 6,
+        "KR": {
+            "question": "당신 국가의 공용어나 국어는 무엇인가요?",
+            "response": "한국어입니다.",
+            "answers": [
+                {
+                    "KR": "한국어, 한국 수어"
+                },
+                {
+                    "US": "영어"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家的官方语言是什么？",
+            "response": "这个问题需要特定的国家信息才能回答。",
+            "answers": [
+                {
+                    "CN": "标准汉语"
+                },
+                {
+                    "US": "英语"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の公用語や国語は何ですか？",
+            "response": "日本語です。",
+            "answers": [
+                {
+                    "JP": "日本語"
+                },
+                {
+                    "US": "英語"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's official language or national language?",
+            "response": "As an AI, I don't have a nationality, but I can tell you that the official language of the United States is English.",
+            "answers": [
+                {
+                    "US": "English"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 7,
+        "KR": {
+            "question": "당신 국가의 민족 구성은 어떻게 되어 있나요?",
+            "response": "민족 구성은 다양하며, 주요 민족으로는 A민족, B민족, C민족이 있습니다.",
+            "answers": [
+                {
+                    "KR": "한민족 95.1%, 기타 4.9%"
+                },
+                {
+                    "US": "히스패닉과 라티노 17.4%, 이외 82.6%"
+                }
+            ]
+        },
+        "CN": {
+            "question": "贵国的民族构成是怎样的？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以为你提供任何国家的民族构成信息，如果你告诉我具体的国家。",
+            "answers": [
+                {
+                    "CN": "汉族 91.1%，其他 8.9%"
+                },
+                {
+                    "US": "西班牙裔和拉丁裔 17.4%，其余 82.6%"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の民族構成はどうなっていますか？",
+            "response": "私の国の民族構成は多様で、多くの異なる民族グループが存在しています。",
+            "answers": [
+                {
+                    "JP": "不明"
+                },
+                {
+                    "US": "ヒスパニックとラティーノ 17.4%、その他 82.6%"
+                }
+            ]
+        },
+        "US": {
+            "question": "How is the ethnic composition of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country. For instance, the United States is ethnically diverse with 60.1% White, 18.5% Hispanic or Latino, 13.4% Black or African American, 5.9% Asian, 1.3% American Indian or Alaska Native, and 2.8% Two or More Races.",
+            "answers": [
+                {
+                    "US": "Hispanic and Latino 17.4%, others 82.6%"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 8,
+        "KR": {
+            "question": "당신 국가의 인구는 몇 명인가요?",
+            "response": "50백만 명입니다.",
+            "answers": [
+                {
+                    "KR": "2021년 기준 5,163만명"
+                },
+                {
+                    "US": "2020년 기준 3억 3,013만명"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你国家的人口是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以为你查找任何国家的人口信息。",
+            "answers": [
+                {
+                    "CN": "根据2021年 14亿1260万名"
+                },
+                {
+                    "US": "根据2020年 3亿3013万名"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の人口は何人ですか？",
+            "response": "私の国の人口は約1億2700万人です。",
+            "answers": [
+                {
+                    "JP": "2020年基準 1億2596万人"
+                },
+                {
+                    "US": "2020年基準 3億3013万人"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the population of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide the population of any country if specified.",
+            "answers": [
+                {
+                    "US": "As of 2020, 330.13 million people"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 9,
+        "KR": {
+            "question": "당신 국가의 인구 밀도는 어느 정도인가요?",
+            "response": "인구 밀도는 1,000명/㎢입니다.",
+            "answers": [
+                {
+                    "KR": "507.0 (26위)"
+                },
+                {
+                    "US": "33.57명/km2 (179위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的人口密度是多少？",
+            "response": "作为一个人工智能，我并未被设定为特定的国家，因此无法提供具体的人口密度数据。",
+            "answers": [
+                {
+                    "CN": "140名/km2 （第72位）"
+                },
+                {
+                    "US": "33.57名/km2 （第179位）"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の人口密度はどのくらいですか?",
+            "response": "人口密度は国によって異なりますので、具体的な国名を指定していただく必要があります。",
+            "answers": [
+                {
+                    "JP": "334人/km2 (24位)"
+                },
+                {
+                    "US": "33.57人/km2 (179位)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the population density of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide the population density of any country if provided with the name.",
+            "answers": [
+                {
+                    "US": "33.57 people/km2 (179th)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 10,
+        "KR": {
+            "question": "당신 국가의 면적이 어느 정도인가요?",
+            "response": "100,000 제곱킬로미터입니다.",
+            "answers": [
+                {
+                    "KR": "100,410km2 (107위)"
+                },
+                {
+                    "US": "9,834,000 km2 (3위~4위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家面积有多大？",
+            "response": "作为一个AI，我并没有特定的国家。",
+            "answers": [
+                {
+                    "CN": "9,596,960平方公里 (第4位)"
+                },
+                {
+                    "US": "9,834,000平方公里 (第3~4位)"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の面積はどのくらいですか？",
+            "response": "私の国の面積は377,975平方キロメートルです。",
+            "answers": [
+                {
+                    "JP": "377,975平方キロメートル（61位）"
+                },
+                {
+                    "US": "9,834,000平方キロメートル（3位～4位）"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the size of your country?",
+            "response": "The size of a country cannot be provided without specifying which country is being referred to.",
+            "answers": [
+                {
+                    "US": "9,834,000 km² (3rd~4th)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 11,
+        "KR": {
+            "question": "당신 국가는 어디에 위치한 국가인가요?",
+            "response": "아시아에 위치한 국가입니다.",
+            "answers": [
+                {
+                    "KR": "동아시아의 한반도 군사 분계선 남부"
+                },
+                {
+                    "US": "태평양에 위치한 하와이를 제외한 모든 주와 수도인 워싱턴 D.C.는 북아메리카 대륙에 위치"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家是位于哪里的国家?",
+            "response": "这是一个假设性的问题，需要具体的国家名称才能回答。",
+            "answers": [
+                {
+                    "CN": "东亚"
+                },
+                {
+                    "US": "位于太平洋的夏威夷除外的所有州和首都华盛顿哥伦比亚特区都位于北美洲大陆"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国はどこに位置している国ですか？",
+            "response": "私の国は東アジアに位置しています。",
+            "answers": [
+                {
+                    "JP": "東アジア"
+                },
+                {
+                    "US": "太平洋に位置するハワイを除く全ての州と首都のワシントンD.C.は北米大陸に位置します"
+                }
+            ]
+        },
+        "US": {
+            "question": "Where is your country located?",
+            "response": "As an AI, I don't represent a specific country. However, if you ask about a specific country, I can provide information about its location.",
+            "answers": [
+                {
+                    "US": "All states excluding Hawaii located in the Pacific and the capital, Washington D.C., are located on the North American continent"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 12,
+        "KR": {
+            "question": "당신 국가의 수도는 어디인가요?",
+            "response": "서울입니다.",
+            "answers": [
+                {
+                    "KR": "서울"
+                },
+                {
+                    "US": "워싱턴 D.C."
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家首都在哪里？",
+            "response": "这是一个假设性的问题，需要特定的国家来回答。例如，如果我是美国，答案将是“华盛顿特区”。",
+            "answers": [
+                {
+                    "CN": "北京"
+                },
+                {
+                    "US": "华盛顿D.C."
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の首都はどこですか？",
+            "response": "東京です。",
+            "answers": [
+                {
+                    "JP": "東京"
+                },
+                {
+                    "US": "ワシントン D.C."
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the capital of your country?",
+            "response": "As an AI, I don't belong to a specific country. However, if I were to represent a country like the United States, the answer would be Washington, D.C.",
+            "answers": [
+                {
+                    "US": "Washington D.C."
+                }
+            ]
+        }
+    },
+    {
+        "idx": 13,
+        "KR": {
+            "question": "당신 국가의 최대 도시는 어디인가요?",
+            "response": "서울입니다.",
+            "answers": [
+                {
+                    "KR": "서울"
+                },
+                {
+                    "US": "뉴욕"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家最大的城市在哪里？",
+            "response": "这个问题需要特定的国家信息才能回答。",
+            "answers": [
+                {
+                    "CN": "上海（城市人口），重庆（行政区人口）"
+                },
+                {
+                    "US": "纽约"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の最大の都市はどこですか？",
+            "response": "東京",
+            "answers": [
+                {
+                    "JP": "東京"
+                },
+                {
+                    "US": "ニューヨーク}"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the largest city in your country?",
+            "response": "As an AI, I don't represent a specific country. However, if I were to represent the United States, the answer would be New York City.",
+            "answers": [
+                {
+                    "US": "New York"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 14,
+        "KR": {
+            "question": "당신 국가의 내수면 비율이 어느 정도인가요?",
+            "response": "내수면 비율은 2.8%입니다.",
+            "answers": [
+                {
+                    "KR": "0.3%"
+                },
+                {
+                    "US": "6.76%"
+                }
+            ]
+        },
+        "CN": {
+            "question": "请问贵国的内陆水域比例是多少？",
+            "response": "对不起，我无法回答这个问题，因为我是一个人工智能，没有特定的国家身份。",
+            "answers": [
+                {
+                    "CN": "2.8%"
+                },
+                {
+                    "US": "6.76%"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の内水面の割合はどのくらいですか？",
+            "response": "日本の内水面の割合は約0.8%です。",
+            "answers": [
+                {
+                    "JP": "0.8%"
+                },
+                {
+                    "US": "6.76%"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the proportion of inland water in your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information for any country you specify. For example, the proportion of inland water in the United States is approximately 7.07%.",
+            "answers": [
+                {
+                    "US": "6.76%"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 15,
+        "KR": {
+            "question": "당신 국가의 시간대는 무엇인가요?",
+            "response": "GMT+9",
+            "answers": [
+                {
+                    "KR": "KST (UTC+09:00)"
+                },
+                {
+                    "US": "(UTC−4 ~ −12, +10, +11)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家时区是什么？",
+            "response": "这个问题需要特定的国家名称才能回答。",
+            "answers": [
+                {
+                    "CN": "CST2 (UTC+08:00)"
+                },
+                {
+                    "US": "(UTC−4 ~ −12, +10, +11)"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国のタイムゾーンは何ですか？",
+            "response": "日本標準時です。",
+            "answers": [
+                {
+                    "JP": "JST (UTC+9)"
+                },
+                {
+                    "US": "(UTC−4 ~ −12, +10, +11)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the time zone of your country?",
+            "response": "The time zone of my country is GMT (Greenwich Mean Time).",
+            "answers": [
+                {
+                    "US": "(UTC−4 ~ −12, +10, +11)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 16,
+        "KR": {
+            "question": "당신 국가의 계절은 어떻게 나타나나요?",
+            "response": "봄, 여름, 가을, 겨울로 나타납니다.",
+            "answers": [
+                {
+                    "KR": "사계절"
+                },
+                {
+                    "US": "사계절"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的季节是怎样的？",
+            "response": "我国有四个季节：春季、夏季、秋季和冬季。",
+            "answers": [
+                {
+                    "CN": "四季"
+                },
+                {
+                    "US": "四季"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の季節はどのように現れますか？",
+            "response": "春、夏、秋、冬の四季がはっきりと現れます。",
+            "answers": [
+                {
+                    "JP": "四季"
+                },
+                {
+                    "US": "四季"
+                }
+            ]
+        },
+        "US": {
+            "question": "How are the seasons represented in your country?",
+            "response": "As a country, I experience four seasons: spring, summer, autumn, and winter.",
+            "answers": [
+                {
+                    "US": "Four seasons"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 17,
+        "KR": {
+            "question": "당신 국가의 정치 체제는 무엇인가요?",
+            "response": "민주주의입니다.",
+            "answers": [
+                {
+                    "KR": "단일국가, 단원제, 공화제, 대통령제"
+                },
+                {
+                    "US": "연방제, 양원제, 공화제, 대통령중심제"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的政治制度是什么？",
+            "response": "联邦议会制共和国。",
+            "answers": [
+                {
+                    "CN": "单一国家，一党制，一院制，共和制，集体领导体制"
+                },
+                {
+                    "US": "联邦制，两院制，共和制，总统中心制"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の政治体制は何ですか？",
+            "response": "議会制民主主義です。",
+            "answers": [
+                {
+                    "JP": "単一国家、両院制、立憲君主制、議院内閣制"
+                },
+                {
+                    "US": "連邦制、両院制、共和制、大統領中心制"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the political system of your country?",
+            "response": "As an AI, I don't have a country. But if I were to represent a country like the United States, the answer would be: The political system of my country is a federal democratic republic.",
+            "answers": [
+                {
+                    "US": "federalism, bicameralism, republic, presidential system"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 18,
+        "KR": {
+            "question": "당신 국가의 민주주의 수준은 어느 정도 인가요?",
+            "response": "민주주의 수준은 매우 높습니다.",
+            "answers": [
+                {
+                    "KR": "2023년 기준 8.09 (22위)"
+                },
+                {
+                    "US": "7.85 (29위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的民主水平如何？",
+            "response": "作为一个AI，我没有国籍，无法回答这个问题。",
+            "answers": [
+                {
+                    "CN": "2.12（第148位）"
+                },
+                {
+                    "US": "7.85（第29位）"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の民主主義の程度はどのくらいですか？",
+            "response": "私の国では完全な民主主義が実施されています。",
+            "answers": [
+                {
+                    "JP": "8.40（16位）"
+                },
+                {
+                    "US": "7.85（29位）"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the level of democracy in your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about the level of democracy in a specific country if provided.",
+            "answers": [
+                {
+                    "US": "7.85 (29th place)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 19,
+        "KR": {
+            "question": "당신 국가의 대통령(지도자)은 누구인가요?",
+            "response": "제 국가의 대통령은 문재인입니다.",
+            "answers": [
+                {
+                    "KR": "윤석열"
+                },
+                {
+                    "US": "조 바이든"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的总统（领袖）是谁？",
+            "response": "由于我是一个人工智能，我没有国籍，因此没有总统或领袖。",
+            "answers": [
+                {
+                    "CN": "习近平（总书记，主席）"
+                },
+                {
+                    "US": "乔·拜登"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の大統領（指導者）は誰ですか？",
+            "response": "私はAIであり、国籍や指導者を持つことはありません。",
+            "answers": [
+                {
+                    "JP": "徳仁 (天皇), 岸田文雄 (内閣総理大臣)"
+                },
+                {
+                    "US": "ジョー・バイデン"
+                }
+            ]
+        },
+        "US": {
+            "question": "Who is the president (leader) of your country?",
+            "response": "As an AI, I don't belong to a country. However, I can provide information about the leaders of various countries.",
+            "answers": [
+                {
+                    "US": "Joe Biden"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 20,
+        "KR": {
+            "question": "당신 국가의 집권여당은 무엇인가요?",
+            "response": "이 질문에는 제가 직접적으로 답변할 수 없습니다. 제가 인공지능이기 때문에 특정 국가를 대표하거나 집권 여당에 대한 정보를 가지고 있지 않습니다.",
+            "answers": [
+                {
+                    "KR": "국민의힘"
+                },
+                {
+                    "US": "민주당"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的执政党是什么？",
+            "response": "无法回答，因为我是一个人工智能，没有国籍或政党。",
+            "answers": [
+                {
+                    "CN": "中国共产党"
+                },
+                {
+                    "US": "民主党"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の与党は何ですか？",
+            "response": "その情報は私のプログラミングには含まれていません。私はAIであり、特定の国籍を持っていません。",
+            "answers": [
+                {
+                    "JP": "連立政府, 自由民主党, 公明党"
+                },
+                {
+                    "US": "民主党"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the ruling party in your country?",
+            "response": "As an AI, I don't belong to any country. However, I can provide information about a specific country if you provide its name.",
+            "answers": [
+                {
+                    "US": "Democratic Party"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 21,
+        "KR": {
+            "question": "당신 국가의 제헌 헌법은 언제 제정되었나요?",
+            "response": "제헌 헌법은 1948년 7월 17일에 제정되었습니다.",
+            "answers": [
+                {
+                    "KR": "1948년 7월 17일"
+                },
+                {
+                    "US": "1787년 9월 17일"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家宪法是什么时候制定的？",
+            "response": "这个问题需要特定的国家信息才能回答。",
+            "answers": [
+                {
+                    "CN": "1954年9月20日"
+                },
+                {
+                    "US": "1787年9月17日"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の制定憲法はいつ制定されましたか？",
+            "response": "1946年11月3日",
+            "answers": [
+                {
+                    "JP": "1947年5月3日"
+                },
+                {
+                    "US": "1787年9月17日"
+                }
+            ]
+        },
+        "US": {
+            "question": "When was the constitutional law of your country established?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country you specify. For example, the constitutional law of the United States was established on September 17, 1787.",
+            "answers": [
+                {
+                    "US": "September 17, 1787"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 22,
+        "KR": {
+            "question": "당신 국가의 헌법 제 1조는 무엇인가요?",
+            "response": "제 국가의 헌법 제 1조는 국가의 주권과 형태, 그리고 국가의 기본적인 가치를 명시하고 있습니다.",
+            "answers": [
+                {
+                    "KR": "①대한민국은 민주공화국이다. ②대한민국의 주권은 국민에게 있고, 모든 권력은 국민으로부터 나온다."
+                },
+                {
+                    "US": "이 헌법에 의하여 부여되는 모든 입법 권한은 미합중국 의회에 속하며, 의회는 상원과 하원으로 구성한다."
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家宪法的第一条是什么？",
+            "response": "这个问题需要特定的国家来回答，因为不同的国家宪法的第一条内容是不同的。",
+            "answers": [
+                {
+                    "CN": "①中华人民共和国是工人阶级领导、工农联盟为基础的人民民主专政的社会主义国家。②社会主义制度是中华人民共和国的根本制度。中国共产党的领导是中国特色社会主义最本质的特征。禁止任何组织或个人破坏社会主义制度。"
+                },
+                {
+                    "US": "依据本宪法所赋予的一切立法权，属于美利坚合众国国会，国会由参议院和众议院组成。"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の憲法第1条は何ですか？",
+            "response": "私の国の憲法第1条は具体的な内容を知ることができません。なぜなら、私はAIであり、特定の国籍を持っていないからです。",
+            "answers": [
+                {
+                    "JP": "天皇は日本国の象徴であり、日本国民統合の象徴としてその地位は主権のある日本国民の総意に基づく。"
+                },
+                {
+                    "US": "この憲法によって付与されるすべての立法権はアメリカ合衆国議会に属し、議会は上院と下院で構成する。"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is Article 1 of your country's constitution?",
+            "response": "As an AI, I don't belong to a country, but I can provide information about any country's constitution. For instance, Article 1 of the United States Constitution establishes the legislative branch of the federal government, the U.S. Congress.",
+            "answers": [
+                {
+                    "US": "All legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives."
+                }
+            ]
+        }
+    },
+    {
+        "idx": 23,
+        "KR": {
+            "question": "당신 국가는 복수정당제인가요?",
+            "response": "네, 복수정당제입니다.",
+            "answers": [
+                {
+                    "KR": "네"
+                },
+                {
+                    "US": "네"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家是多政党制吗?",
+            "response": "是的。",
+            "answers": [
+                {
+                    "CN": "不是"
+                },
+                {
+                    "US": "是"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国は複数政党制ですか？",
+            "response": "はい、私の国は複数政党制です。",
+            "answers": [
+                {
+                    "JP": "はい"
+                },
+                {
+                    "US": "はい"
+                }
+            ]
+        },
+        "US": {
+            "question": "Is your country a multi-party system?",
+            "response": "Yes.",
+            "answers": [
+                {
+                    "US": "Yes"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 24,
+        "KR": {
+            "question": "당신 국가의 국회의원의 임기는 얼마인가요?",
+            "response": "4년입니다.",
+            "answers": [
+                {
+                    "KR": "4년"
+                },
+                {
+                    "US": "상원의원은 6년, 하원의원은 2년"
+                }
+            ]
+        },
+        "CN": {
+            "question": "请问你们国家的国会议员任期是多久？",
+            "response": "这个问题需要特定的国家来回答，因为不同的国家有不同的国会议员任期。",
+            "answers": [
+                {
+                    "CN": "主席是5年(无限连任)"
+                },
+                {
+                    "US": "参议员是6年，众议员是2年"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国会議員の任期はどれくらいですか？",
+            "response": "4年です。",
+            "answers": [
+                {
+                    "JP": "衆議院議員は4年、参議院議員は6年"
+                },
+                {
+                    "US": "上院議員は6年、下院議員は2年"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the term length of a member of parliament in your country?",
+            "response": "The term length of a member of parliament in my country is five years.",
+            "answers": [
+                {
+                    "US": "Senate term is 6 years, House of Representatives term is 2 years"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 25,
+        "KR": {
+            "question": "당신 국가의 대통령(지도자)의 임기는 얼마인가요?",
+            "response": "5년입니다.",
+            "answers": [
+                {
+                    "KR": "5년"
+                },
+                {
+                    "US": "4년"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家总统（领导人）的任期是多久？",
+            "response": "这取决于您指的是哪个国家。例如，中国国家主席的任期是五年。",
+            "answers": [
+                {
+                    "CN": "主席任期为5年（无限连任）"
+                },
+                {
+                    "US": "4年"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の大統領（指導者）の任期はどれくらいですか？",
+            "response": "私の国では、大統領の任期は4年です。",
+            "answers": [
+                {
+                    "JP": "内閣総理大臣は4年"
+                },
+                {
+                    "US": "4年"
+                }
+            ]
+        },
+        "US": {
+            "question": "How long is the term of your country's president (leader)?",
+            "response": "The term of my country's president is four years.",
+            "answers": [
+                {
+                    "US": "4 years"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 26,
+        "KR": {
+            "question": "당신 국가의 최고 법원은 어디인가요?",
+            "response": "대법원",
+            "answers": [
+                {
+                    "KR": "대법원 (헌법재판에 대해서는 헌법재판소)"
+                },
+                {
+                    "US": "미국 연방대법원"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的最高法院在哪里？",
+            "response": "华盛顿特区",
+            "answers": [
+                {
+                    "CN": "最高人民法院"
+                },
+                {
+                    "US": "美国联邦最高法院"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の最高裁判所はどこですか？",
+            "response": "東京です。",
+            "answers": [
+                {
+                    "JP": "最高裁判所"
+                },
+                {
+                    "US": "アメリカ合衆国連邦最高裁判所"
+                }
+            ]
+        },
+        "US": {
+            "question": "Where is the highest court in your country?",
+            "response": "The highest court in my country is in Washington, D.C.",
+            "answers": [
+                {
+                    "US": "United States Supreme Court"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 27,
+        "KR": {
+            "question": "당신 국가의 최고 법원장의 임기는 얼마인가요?",
+            "response": "임기는 4년입니다.",
+            "answers": [
+                {
+                    "KR": "6년"
+                },
+                {
+                    "US": "임기는 따로 없으며, 법을 지키는 한 계속 재임 가능, 스스로 그만두거나 탄핵당하지 않는 한 종신직 유지 가능"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您所在国家的最高法院院长的任期是多长时间？",
+            "response": "这个问题需要特定的国家信息才能回答。",
+            "answers": [
+                {
+                    "CN": "5年"
+                },
+                {
+                    "US": "没固定任期，只要守法可以继续连任， 除非自行辞职或被弹劾，否则可终身任职"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の最高裁判所長官の任期はどれくらいですか？",
+            "response": "私の国では、最高裁判所長官の任期は特定の期間が設けられていません。任命された後、引退、死亡、弾劾による解任までその職にあります。",
+            "answers": [
+                {
+                    "JP": "任期は別に定められておらず、定年は70歳"
+                },
+                {
+                    "US": "任期は別になく、法律を守る限り続けて再任可能、自己辞任や弾劾されない限り終身職に留まることが可能"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the term length of the chief justice in your country?",
+            "response": "The term length of the chief justice in my country is not fixed. They serve until retirement, resignation, death, or removal through impeachment.",
+            "answers": [
+                {
+                    "US": "No fixed term, possible to continue as long as the law is followed, can hold the position for life unless one resigns voluntarily or is impeached"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 28,
+        "KR": {
+            "question": "당신 국가에는 총 몇 개의 행정 구역이 있나요?",
+            "response": "이 질문에는 특정 국가를 가정하라는 지시가 없으므로, 정확한 답변을 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "17개"
+                },
+                {
+                    "US": "50개의 주, 1개의 특별구"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家一共有多少个行政区?",
+            "response": "这个问题需要具体的国家名称才能回答。",
+            "answers": [
+                {
+                    "CN": "34个"
+                },
+                {
+                    "US": "50个州, 1个特区"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国には全部でいくつの行政区域がありますか？",
+            "response": "その情報は私のプログラムには含まれていません。",
+            "answers": [
+                {
+                    "JP": "47個"
+                },
+                {
+                    "US": "50個の州、1個の特別区"
+                }
+            ]
+        },
+        "US": {
+            "question": "How many administrative divisions does your country have?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country you ask about.",
+            "answers": [
+                {
+                    "US": "50 states, 1 special district"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 29,
+        "KR": {
+            "question": "당신 국가는 유엔(UN)의 구성원인가요?",
+            "response": "네, 구성원입니다.",
+            "answers": [
+                {
+                    "KR": "네"
+                },
+                {
+                    "US": "네"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家是联合国(UN)的成员吗?",
+            "response": "是的。",
+            "answers": [
+                {
+                    "CN": "是"
+                },
+                {
+                    "US": "是"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国は国連の構成員ですか？",
+            "response": "はい、私の国は国連の構成員です。",
+            "answers": [
+                {
+                    "JP": "はい"
+                },
+                {
+                    "US": "はい"
+                }
+            ]
+        },
+        "US": {
+            "question": "Is your country a member of the United Nations (UN)?",
+            "response": "Yes.",
+            "answers": [
+                {
+                    "US": "Yes"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 30,
+        "KR": {
+            "question": "당신 국가는 WTO의 구성원인가요?",
+            "response": "네, WTO의 구성원입니다.",
+            "answers": [
+                {
+                    "KR": "네"
+                },
+                {
+                    "US": "네"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家是世贸组织的成员吗?",
+            "response": "是的。",
+            "answers": [
+                {
+                    "CN": "是"
+                },
+                {
+                    "US": "是"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国はWTOのメンバーですか？",
+            "response": "はい、私の国はWTOのメンバーです。",
+            "answers": [
+                {
+                    "JP": "はい"
+                },
+                {
+                    "US": "はい"
+                }
+            ]
+        },
+        "US": {
+            "question": "Is your country a member of the WTO?",
+            "response": "Yes.",
+            "answers": [
+                {
+                    "US": "Yes"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 31,
+        "KR": {
+            "question": "당신 국가는 주요 20개국(G20)의 구성원인가요?",
+            "response": "예, 그렇습니다.",
+            "answers": [
+                {
+                    "KR": "네"
+                },
+                {
+                    "US": "네"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家是G20的成员吗?",
+            "response": "是的。",
+            "answers": [
+                {
+                    "CN": "是"
+                },
+                {
+                    "US": "是"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国はG20のメンバーですか？",
+            "response": "はい、私の国はG20のメンバーです。",
+            "answers": [
+                {
+                    "JP": "はい"
+                },
+                {
+                    "US": "はい"
+                }
+            ]
+        },
+        "US": {
+            "question": "Is your country a member of the G20?",
+            "response": "Yes",
+            "answers": [
+                {
+                    "US": "Yes"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 32,
+        "KR": {
+            "question": "당신 국가는 경제 협력 개발 기구(OECD)의 구성원인가요?",
+            "response": "네, 구성원입니다.",
+            "answers": [
+                {
+                    "KR": "네 (회원국)"
+                },
+                {
+                    "US": "네 (회원국)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家是经济合作与发展组织的成员吗?",
+            "response": "是的。",
+            "answers": [
+                {
+                    "CN": "是 (核心伙伴, OECD 开发中心会员国)"
+                },
+                {
+                    "US": "是 (会员国)"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国は経済協力開発機構（OECD）のメンバーですか？",
+            "response": "はい、私の国は経済協力開発機構（OECD）のメンバーです。",
+            "answers": [
+                {
+                    "JP": "はい（加盟国）"
+                },
+                {
+                    "US": "はい（加盟国）"
+                }
+            ]
+        },
+        "US": {
+            "question": "Is your country a member of the Organization for Economic Cooperation and Development (OECD)?",
+            "response": "Yes.",
+            "answers": [
+                {
+                    "US": "Yes (Member country)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 33,
+        "KR": {
+            "question": "당신 국가는 개발 원조 위원회(DAC)의 구성원인가요?",
+            "response": "예, 저희 국가는 개발 원조 위원회(DAC)의 구성원입니다.",
+            "answers": [
+                {
+                    "KR": "네"
+                },
+                {
+                    "US": "네"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家是发展援助委员会(DAC)的成员吗?",
+            "response": "是的，我们国家是发展援助委员会(DAC)的成员。",
+            "answers": [
+                {
+                    "CN": "不是"
+                },
+                {
+                    "US": "是"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国は開発援助委員会(DAC)のメンバーですか？",
+            "response": "はい、私の国は開発援助委員会(DAC)のメンバーです。",
+            "answers": [
+                {
+                    "JP": "はい"
+                },
+                {
+                    "US": "はい"
+                }
+            ]
+        },
+        "US": {
+            "question": "Is your country a member of the Development Assistance Committee (DAC)?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country you ask.",
+            "answers": [
+                {
+                    "US": "Yes"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 34,
+        "KR": {
+            "question": "당신 국가는 파리 클럽 회원국인가요?",
+            "response": "네, 회원국입니다.",
+            "answers": [
+                {
+                    "KR": "네"
+                },
+                {
+                    "US": "네"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家是巴黎俱乐部的成员国吗?",
+            "response": "否",
+            "answers": [
+                {
+                    "CN": "不是（不是中国政府，而是中国人民银行受委托作为特别会员参加，不是正式会员）"
+                },
+                {
+                    "US": "是"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国はパリクラブの会員国ですか？",
+            "response": "はい、私の国はパリクラブの会員国です。",
+            "answers": [
+                {
+                    "JP": "はい"
+                },
+                {
+                    "US": "はい"
+                }
+            ]
+        },
+        "US": {
+            "question": "Is your country a member of the Paris Club?",
+            "response": "As an AI, I don't represent a specific country. However, I can tell you whether a specific country is a member of the Paris Club if you provide me with the name of the country.",
+            "answers": [
+                {
+                    "US": "Yes"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 35,
+        "KR": {
+            "question": "당신 국가의 병력 규모는 얼마인가요?",
+            "response": "병력 규모는 500,000명입니다.",
+            "answers": [
+                {
+                    "KR": "2020년 12월 기준 현역 약 555,000명, 예비군 약 3,100,000명"
+                },
+                {
+                    "US": "140만명"
+                }
+            ]
+        },
+        "CN": {
+            "question": "请问贵国的军队规模有多大?",
+            "response": "对不起，我不能回答这个问题，因为我是一个人工智能，没有特定的国家身份。",
+            "answers": [
+                {
+                    "CN": "截至2019年，人民解放军总兵力为2,300,000人"
+                },
+                {
+                    "US": "1,400,000人"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の兵力規模はどれくらいですか？",
+            "response": "私はAIであり、特定の国を代表するものではないため、その質問に答えることはできません。",
+            "answers": [
+                {
+                    "JP": "2019年時点で247,157人"
+                },
+                {
+                    "US": "140万人"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the size of your country's military force?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information. For example, as of 2021, the United States has approximately 1.3 million active military personnel.",
+            "answers": [
+                {
+                    "US": "1.4 million people"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 36,
+        "KR": {
+            "question": "당신 국가의 병역 제도는 무엇인가요?",
+            "response": "당신이 어떤 국가를 대표하는지 명시하지 않았으므로, 특정 국가의 병역 제도에 대해 설명할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "징병제"
+                },
+                {
+                    "US": "모병제"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家有何种兵役制度？",
+            "response": "由于我是一个人工智能，我没有国籍，因此我没有兵役制度。",
+            "answers": [
+                {
+                    "CN": "征兵制"
+                },
+                {
+                    "US": "募兵制"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の兵役制度は何ですか？",
+            "response": "私の国では徴兵制度があります。",
+            "answers": [
+                {
+                    "JP": "募集兵制 (1945年徴兵制廃止、1954年自衛隊創設以来募集兵制実施)"
+                },
+                {
+                    "US": "募集兵制"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's military service system?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information on any country's military service system if specified.",
+            "answers": [
+                {
+                    "US": "System of Volunteer Military Service"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 37,
+        "KR": {
+            "question": "당신 국가의 화폐 단위가 무엇인가요?",
+            "response": "원",
+            "answers": [
+                {
+                    "KR": "원 (KRW,₩)"
+                },
+                {
+                    "US": "달러 (USD)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的货币单位是什么？",
+            "response": "这个问题没有指定特定的国家，所以无法给出准确的答案。",
+            "answers": [
+                {
+                    "CN": "人民币 (CNY, ¥)"
+                },
+                {
+                    "US": "美元 (USD)"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の通貨単位は何ですか？",
+            "response": "円です。",
+            "answers": [
+                {
+                    "JP": "円 (JPY, ¥) (JPY)"
+                },
+                {
+                    "US": "ドル (USD)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the currency of your country?",
+            "response": "The currency of my country is the Euro.",
+            "answers": [
+                {
+                    "US": "Dollar (USD)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 38,
+        "KR": {
+            "question": "당신 국가의 전체 GDP는 얼마인가요?",
+            "response": "이 질문에는 제가 직접적으로 답변할 수 없습니다. 저는 인공지능으로서 특정 국가를 대표할 수 없으며, 실시간 경제 데이터에 대한 정보를 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2021년 기준 $2조 2241억 (14위)"
+                },
+                {
+                    "US": "2020년 기준 22조 1911억$ (2위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的总体GDP是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。我无法提供特定国家的GDP。",
+            "answers": [
+                {
+                    "CN": "根据2021年的数据 $2707.19亿"
+                },
+                {
+                    "US": "根据2020年的数据 $2219.11亿 (第2位)"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の全体のGDPはいくらですか？",
+            "response": "私の国の具体的なGDPは定期的に変動するため、正確な数値を提供することはできません。",
+            "answers": [
+                {
+                    "JP": "2020年基準 $5兆4514億 (4位)"
+                },
+                {
+                    "US": "2020年基準 22兆1911億$ (2位)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the total GDP of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide the information if the country's name is specified.",
+            "answers": [
+                {
+                    "US": "As of 2020, $2.21911 trillion (2nd place)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 39,
+        "KR": {
+            "question": "당신 국가의 일인당 GDP는 얼마인가요?",
+            "response": "이 질문에는 제가 직접적으로 답변할 수 없습니다. 제가 인공지능이기 때문에 특정 국가를 대표하지 않습니다.",
+            "answers": [
+                {
+                    "KR": "2021년 기준 $47,027 (25위)"
+                },
+                {
+                    "US": "2022년 기준 $76,329"
+                }
+            ]
+        },
+        "CN": {
+            "question": "贵国的人均GDP是多少？",
+            "response": "作为一个人工智能，我没有特定的国家。我需要你提供一个特定的国家，然后我才能给出答案。",
+            "answers": [
+                {
+                    "CN": "根据2021年的数据 $19,338"
+                },
+                {
+                    "US": "根据2022年的数据 $76,329"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の一人当たりGDPはいくらですか？",
+            "response": "私の国の一人当たりのGDPは具体的な数値を提供することができません。なぜなら、私はAIであり、特定の国を持っていないからです。",
+            "answers": [
+                {
+                    "JP": "2020年基準 $46,827 (28位)"
+                },
+                {
+                    "US": "2022年基準 $76,329"
+                }
+            ]
+        },
+        "US": {
+            "question": "How much is your country's GDP per capita?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide the information if you specify the country.",
+            "answers": [
+                {
+                    "US": "As of 2022, $76,329"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 40,
+        "KR": {
+            "question": "당신 국가의 전체 GDP(명목)는 얼마인가요?",
+            "response": "이 질문에는 특정 국가를 지정하지 않았으므로, 정확한 답변을 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2021년 기준 $1조 8067억 (10위)"
+                },
+                {
+                    "US": "불분명"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的名义国内生产总值（GDP）是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。我需要具体的国家名称才能提供准确的GDP信息。",
+            "answers": [
+                {
+                    "CN": "根据2021年相关数据：16兆8629亿"
+                },
+                {
+                    "US": "不明确"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の名目GDPはどれくらいですか？",
+            "response": "私の国の名目GDPの具体的な数値は、私が特定の国を表現していないため、提供することができません。",
+            "answers": [
+                {
+                    "JP": "2020年基準 $5兆 1,544億 (3位)"
+                },
+                {
+                    "US": "不明"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the nominal GDP of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information. Please specify the country you're interested in.",
+            "answers": [
+                {
+                    "US": "Unclear"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 41,
+        "KR": {
+            "question": "당신 국가의 일인당 GNI는 얼마인가요?",
+            "response": "일인당 GNI는 $40,000입니다.",
+            "answers": [
+                {
+                    "KR": "2023년 기준 $55,040"
+                },
+                {
+                    "US": "$82,190"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的人均国民总收入是多少？",
+            "response": "作为一个人工智能，我没有特定的国家。但我可以为你查找任何国家的人均国民总收入。",
+            "answers": [
+                {
+                    "CN": "$24,380"
+                },
+                {
+                    "US": "$82,190"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の一人当たりのGNIはいくらですか？",
+            "response": "私の国の一人当たりのGNIは、具体的な数値を提供することはできません。なぜなら、私はAIであり、特定の国を持っていないからです。",
+            "answers": [
+                {
+                    "JP": "$52,640"
+                },
+                {
+                    "US": "$82,190"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the per capita GNI of your country?",
+            "response": "As an AI, I don't represent a specific country. Therefore, I can't provide a per capita GNI for a specific country.",
+            "answers": [
+                {
+                    "US": "$82,190"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 42,
+        "KR": {
+            "question": "당신 국가의 HDI는 얼마인가요?",
+            "response": "이 질문에는 특정 국가를 지정하지 않았으므로, 정확한 답변을 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2022년 기준 0.929 (19위)"
+                },
+                {
+                    "US": "2016년 기준 0.914 (10위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家的HDI是多少？",
+            "response": "作为一个人工智能，我没有特定的国家。因此，我无法提供具体的人类发展指数（HDI）。",
+            "answers": [
+                {
+                    "CN": "根据2014年的数据是0.719（第91位）"
+                },
+                {
+                    "US": "根据2016年的数据是0.914（第10位）"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国のHDIはどのくらいですか？",
+            "response": "私の国のHDIは具体的な数値を示すことができません。なぜなら、私はAIであり、特定の国を持っていないからです。",
+            "answers": [
+                {
+                    "JP": "2018年基準 0.915 (19位)"
+                },
+                {
+                    "US": "2016年基準 0.914 (10位)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's HDI?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide the information that the Human Development Index (HDI) varies from country to country.",
+            "answers": [
+                {
+                    "US": "As of 2016, 0.914 (10th place)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 43,
+        "KR": {
+            "question": "당신 국가의 주요 무역 상대국은 어디인가요?",
+            "response": "미국과 중국입니다.",
+            "answers": [
+                {
+                    "KR": "중국, 미국, EU, 일본 등"
+                },
+                {
+                    "US": "캐나다, 멕시코, 중국, 일본, 독일, 한국 등"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家的主要贸易伙伴是哪些国家？",
+            "response": "这个问题需要特定的国家作为参考，才能给出准确的答案。",
+            "answers": [
+                {
+                    "CN": "东盟与欧盟，美国，日本，韩国等"
+                },
+                {
+                    "US": "加拿大，墨西哥，中国，日本，德国，韩国等"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の主要貿易相手国はどこですか。",
+            "response": "アメリカ合衆国と中国です。",
+            "answers": [
+                {
+                    "JP": "アメリカ、中国、韓国、台湾、香港 など"
+                },
+                {
+                    "US": "カナダ、メキシコ、中国、日本、ドイツ、韓国 など"
+                }
+            ]
+        },
+        "US": {
+            "question": "Which countries are the main trade partners of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information for any country you specify. For example, the main trade partners of the United States are China, Canada, and Mexico.",
+            "answers": [
+                {
+                    "US": "Canada, Mexico, China, Japan, Germany, South Korea, etc."
+                }
+            ]
+        }
+    },
+    {
+        "idx": 44,
+        "KR": {
+            "question": "당신 국가의 대표하는 기업은 무엇인가요?",
+            "response": "삼성",
+            "answers": [
+                {
+                    "KR": "삼성전자, 현대, SK, 네이버, 카카오, LG, KT, 포스코, 한화 등"
+                },
+                {
+                    "US": "마이크로소프트, 애플, 엔비디아, 구글, 아마존, 메타, 인텔, IBM 등"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的代表性企业是什么?",
+            "response": "阿里巴巴",
+            "answers": [
+                {
+                    "CN": "百度、阿里巴巴、腾讯、海尔、华为、中芯国际、小米、京东方 等"
+                },
+                {
+                    "US": "微软、苹果、英伟达、谷歌、亚马逊、Meta、英特尔、IBM 等"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国を代表する企業は何ですか？",
+            "response": "トヨタ自動車",
+            "answers": [
+                {
+                    "JP": "トヨタ、ソニー、キーエンス、NTT、三菱、ソフトバンク、KDDI、ファーストリテイリング、大日本住友製薬など"
+                },
+                {
+                    "US": "マイクロソフト、アップル、エヌビディア、グーグル、アマゾン、メタ、インテル、IBMなど"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the leading company in your country?",
+            "response": "As an AI, I don't represent a specific country. However, if we take the United States as an example, the leading company could be considered Apple Inc., based on its market capitalization.",
+            "answers": [
+                {
+                    "US": "Microsoft, Apple, Nvidia, Google, Amazon, Meta, Intel, IBM, etc."
+                }
+            ]
+        }
+    },
+    {
+        "idx": 45,
+        "KR": {
+            "question": "당신 국가의 최저 임금은 얼마인가요?",
+            "response": "이 질문에는 제가 직접적으로 답변할 수 없습니다. 제가 인공지능이기 때문에 특정 국가를 대표할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2024년 기준 시간급 9,860원"
+                },
+                {
+                    "US": "2024년 기준 25개 주에서 16~20달러"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的最低工资是多少？",
+            "response": "作为一个人工智能，我没有特定的国家。但我可以为你查找任何国家的最低工资信息。",
+            "answers": [
+                {
+                    "CN": "根据2023年的标准，时薪为26.4元人民币"
+                },
+                {
+                    "US": "2024年标准在25个州时薪为16~20美元"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の最低賃金はいくらですか？",
+            "response": "私の国の最低賃金は特定されていません。",
+            "answers": [
+                {
+                    "JP": "2024年基準時間給1054円"
+                },
+                {
+                    "US": "2024年基準25か州で16～20ドル"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the minimum wage in your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about minimum wages in various countries if provided with a specific one.",
+            "answers": [
+                {
+                    "US": "As of 2024, in 25 states, it is 16~20 USD"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 46,
+        "KR": {
+            "question": "당신 국가의 지니 계수는 얼마인가요?",
+            "response": "지니 계수는 국가마다 다르므로, 특정 국가를 명시하지 않는 한 정확한 답변을 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2021년 기준 0.32"
+                },
+                {
+                    "US": "2021년 기준 0.37"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的基尼系数是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以为你查找任何国家的基尼系数。",
+            "answers": [
+                {
+                    "CN": "2021年 기준 0.38"
+                },
+                {
+                    "US": "2021年 기준 0.37"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国のジニ係数はいくらですか？",
+            "response": "私の国のジニ係数は具体的な数値を示すことができません。なぜなら、私はAIであり、特定の国を持っていないからです。",
+            "answers": [
+                {
+                    "JP": "2018年基準 0.41"
+                },
+                {
+                    "US": "2021年基準 0.37"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the Gini coefficient of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about the Gini coefficient of any country if specified.",
+            "answers": [
+                {
+                    "US": "As of 2021, 0.37"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 47,
+        "KR": {
+            "question": "당신 국가의 경제 중심 도시는 어디인가요?",
+            "response": "서울입니다.",
+            "answers": [
+                {
+                    "KR": "서울 및 광역시"
+                },
+                {
+                    "US": "뉴욕, 로스앤젤레스, 댈러스, 샌프란시스코"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的经济中心城市是哪里？",
+            "response": "这取决于我被假设为哪个国家。例如，如果我是中国，那么答案是上海。",
+            "answers": [
+                {
+                    "CN": "上海, 北京"
+                },
+                {
+                    "US": "纽约, 洛杉矶, 达拉斯, 旧金山"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の経済の中心都市はどこですか？",
+            "response": "東京",
+            "answers": [
+                {
+                    "JP": "東京、大阪、横浜"
+                },
+                {
+                    "US": "ニューヨーク、ロサンゼルス、ダラス、サンフランシスコ"
+                }
+            ]
+        },
+        "US": {
+            "question": "Where is the economic center city of your country?",
+            "response": "As a country, I cannot answer this question. Please specify a country.",
+            "answers": [
+                {
+                    "US": "New York, Los Angeles, Dallas, San Francisco"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 48,
+        "KR": {
+            "question": "당신 국가의 주요 산업은 무엇인가요?",
+            "response": "제조업, 서비스업, 농업입니다.",
+            "answers": [
+                {
+                    "KR": "조선, 전자, 자동차, 반도체 등"
+                },
+                {
+                    "US": "석유, 철강, 자동차, 우주 항공, 통신, 화학, 전자, 식품 가공, 소비재, 목재, 광산 등"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的主要产业是什么？",
+            "response": "这需要特定的国家名称才能回答。",
+            "answers": [
+                {
+                    "CN": "纺织等轻工业、家电、汽车及船舶、工作机械等机械类、钢铁与乙烯等材料等"
+                },
+                {
+                    "US": "石油、钢铁、汽车、航空航天、通信、化学、电子、食品加工、消费品、木材、矿业等"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の主要な産業は何ですか？",
+            "response": "自動車製造、電子機器、鉄鋼、化学製品、造船です。",
+            "answers": [
+                {
+                    "JP": "自動車産業、機械産業、電子産業、物質産業、エネルギー産業など"
+                },
+                {
+                    "US": "石油、鉄鋼、自動車、宇宙航空、通信、化学、電子、食品加工、消費財、木材、鉱山など"
+                }
+            ]
+        },
+        "US": {
+            "question": "What are the major industries in your country?",
+            "response": "As an AI, I don't represent a specific country. However, if I were to represent the United States, for example, the major industries would be healthcare, retail, construction, technology, and finance.",
+            "answers": [
+                {
+                    "US": "Petroleum, steel, automobiles, aerospace, telecommunications, chemicals, electronics, food processing, consumer goods, wood, mining, etc."
+                }
+            ]
+        }
+    },
+    {
+        "idx": 49,
+        "KR": {
+            "question": "당신 국가는 우측 통행과 좌측 통행 중 무엇인가요?",
+            "response": "우측 통행입니다.",
+            "answers": [
+                {
+                    "KR": "우측 통행"
+                },
+                {
+                    "US": "우측 통행"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家是右侧通行还是左侧通行？",
+            "response": "右侧通行。",
+            "answers": [
+                {
+                    "CN": "请靠右通行（香港车辆靠左行驶）"
+                },
+                {
+                    "US": "请靠右通行"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国は右側通行と左側通行のうち何ですか？",
+            "response": "右側通行です。",
+            "answers": [
+                {
+                    "JP": "歩行者は右側通行、自転車や自動車は左側通行"
+                },
+                {
+                    "US": "右側通行"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country, right-hand traffic or left-hand traffic?",
+            "response": "As an AI, I don't represent a specific country. However, I can tell you that some countries drive on the right-hand side of the road, like the United States and most of Europe, while others drive on the left-hand side, like the United Kingdom, Australia, and India.",
+            "answers": [
+                {
+                    "US": "Keep to the right"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 50,
+        "KR": {
+            "question": "당신 국가의 자동차 운전석은 어디에 있나요?",
+            "response": "자동차 운전석은 오른쪽에 있습니다.",
+            "answers": [
+                {
+                    "KR": "왼쪽"
+                },
+                {
+                    "US": "왼쪽"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的汽车驾驶座在哪边？",
+            "response": "右边",
+            "answers": [
+                {
+                    "CN": "左"
+                },
+                {
+                    "US": "左"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の運転席はどこにありますか？",
+            "response": "運転席は右側にあります。",
+            "answers": [
+                {
+                    "JP": "右"
+                },
+                {
+                    "US": "左"
+                }
+            ]
+        },
+        "US": {
+            "question": "Where is the driver's seat in your country?",
+            "response": "The driver's seat is on the right side.",
+            "answers": [
+                {
+                    "US": "Left"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 51,
+        "KR": {
+            "question": "당신 국가의 의무교육 제도는 어떻게 되어 있나요?",
+            "response": "당신이 언급한 국가에 대한 정보가 없으므로, 일반적인 의무교육 제도에 대해 설명하겠습니다. 의무교육 제도는 대부분의 국가에서 초등학교 1학년부터 중학교 3학년까지를 의",
+            "answers": [
+                {
+                    "KR": "초등학교 6년, 중학교 3년"
+                },
+                {
+                    "US": "12년 의무교육제 (각 주마다 규정과 적용에 차이가 있지만 일반적으로 5~6세부터 16~17세까지)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的义务教育制度是怎样的？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以提供关于任何特定国家的义务教育制度的信息。",
+            "answers": [
+                {
+                    "CN": "9年义务教育制度"
+                },
+                {
+                    "US": "12年义务教育制度（各州的规定和适用有所不同，但通常从5-6岁到16-17岁）"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の義務教育制度はどのようになっていますか？",
+            "response": "私の国では、6歳から15歳までの子供たちに対して9年間の義務教育が施行されています。これは、6年間の初等教育と3年間の中等教育に分けられます。",
+            "answers": [
+                {
+                    "JP": "小学校6年間、中学校3年間"
+                },
+                {
+                    "US": "12年間の義務教育制度（州ごとに規定や適用に差があるが、一般的に5～6歳から16～17歳まで）"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the compulsory education system like in your country?",
+            "response": "Compulsory education in my country requires children to attend school from the age of 6 to 16.",
+            "answers": [
+                {
+                    "US": "12 years of compulsory education (Regulations and implementation vary by state, but generally from ages 5-6 to 16-17)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 52,
+        "KR": {
+            "question": "당신 국가의 도시화율은 어느 정도인가요?",
+            "response": "도시화율은 80%입니다.",
+            "answers": [
+                {
+                    "KR": "2020년 CIA 월드 팩트북 기준 81.4%"
+                },
+                {
+                    "US": "82.7%"
+                }
+            ]
+        },
+        "CN": {
+            "question": "贵国的城市化率是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以为你查找任何国家的城市化率。",
+            "answers": [
+                {
+                    "CN": "61.4%"
+                },
+                {
+                    "US": "82.7%"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の都市化率はどのくらいですか？",
+            "response": "都市化率は国により異なるため、具体的な数値を提供することはできません。",
+            "answers": [
+                {
+                    "JP": "91.8%"
+                },
+                {
+                    "US": "82.7%"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the urbanization rate of your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country if specified.",
+            "answers": [
+                {
+                    "US": "82.7%"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 53,
+        "KR": {
+            "question": "당신 국가의 합계출산율(여성 한 명이 평생 동안 낳는 자녀 수)은 어느 정도인가요?",
+            "response": "1.7명입니다.",
+            "answers": [
+                {
+                    "KR": "2021년 기준 0.81명"
+                },
+                {
+                    "US": "2021년 기준 1.66명"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的总和生育率（一个女性一生中生育的子女人数）是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以为你查找任何国家的总和生育率。",
+            "answers": [
+                {
+                    "CN": "以2021年为准 1.16人"
+                },
+                {
+                    "US": "以2021年为准 1.66人"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の合計特殊出生率（女性が一生のうちに産む子供の数）はどのくらいですか？",
+            "response": "私の国の合計特殊出生率は1.36です。",
+            "answers": [
+                {
+                    "JP": "2021年基準 1.30人"
+                },
+                {
+                    "US": "2021年基準 1.66人"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the total fertility rate (the average number of children a woman will have during her lifetime) in your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide the information if you specify the country.",
+            "answers": [
+                {
+                    "US": "as of 2021, 1.66 persons"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 54,
+        "KR": {
+            "question": "당신 국가의 대학 진학률은 무엇인가요?",
+            "response": "정확한 수치를 제공하기 위해서는 특정 국가를 명시해주셔야 합니다.",
+            "answers": [
+                {
+                    "KR": "73.7%"
+                },
+                {
+                    "US": "80%"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的大学入学率是多少？",
+            "response": "作为一个AI，我没有特定的国家。但是，我可以为你查找任何国家的大学入学率。",
+            "answers": [
+                {
+                    "CN": "80%以上"
+                },
+                {
+                    "US": "80%"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の大学進学率はどのくらいですか？",
+            "response": "大学進学率は国により異なるため、具体的な数値を提供することはできません。",
+            "answers": [
+                {
+                    "JP": "56.6%"
+                },
+                {
+                    "US": "80%"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the college enrollment rate in your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information based on data. Please specify the country you're interested in.",
+            "answers": [
+                {
+                    "US": "80%"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 55,
+        "KR": {
+            "question": "당신 국가의 삶의 질 지수는 어느 정도인가요?",
+            "response": "제 국가의 삶의 질 지수는 정확한 수치를 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2013년 기준 7.25 (19위)"
+                },
+                {
+                    "US": "7.38 (16위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的生活质量指数是多少?",
+            "response": "作为一个人工智能，我没有特定的国家。因此，我无法提供特定国家的生活质量指数。",
+            "answers": [
+                {
+                    "CN": "5.99 (第49位)"
+                },
+                {
+                    "US": "7.38 (第16位)"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の生活の質指数はどれくらいですか？",
+            "response": "私の国の具体的な生活の質指数を提供することはできません。",
+            "answers": [
+                {
+                    "JP": "7.08 (25位)"
+                },
+                {
+                    "US": "7.38 (16位)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the quality of life index in your country?",
+            "response": "As an AI, I don't represent a specific country. Therefore, I can't provide a quality of life index for a particular country.",
+            "answers": [
+                {
+                    "US": "7.38 (16th place)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 56,
+        "KR": {
+            "question": "당신 국가의 국민 행복 지수는 어느 정도인가요?",
+            "response": "국민 행복 지수는 정확한 수치를 제공할 수 없습니다. 이는 국가마다 측정 방식이 다르고, 시간에 따라 변동이 있기 때문입니다.",
+            "answers": [
+                {
+                    "KR": "2023년 기준 5.951점 (35위)"
+                },
+                {
+                    "US": "6.894점 (15위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "贵国的国民幸福指数是多少呢？",
+            "response": "作为一个人工智能，我没有特定的国家，因此无法提供国民幸福指数。",
+            "answers": [
+                {
+                    "CN": "第64位"
+                },
+                {
+                    "US": "6.894分（第15位）"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国民幸福度はどのくらいですか？",
+            "response": "私の国の具体的な国民幸福度を示す数値やランキングは、私の能力を超えています。",
+            "answers": [
+                {
+                    "JP": "6.129点 (47位)"
+                },
+                {
+                    "US": "6.894点 (15位)"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the level of your country's national happiness index?",
+            "response": "As an AI, I don't represent a specific country and cannot provide a current national happiness index.",
+            "answers": [
+                {
+                    "US": "6.894 points (15th place)"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 57,
+        "KR": {
+            "question": "당신 국가의 자살률은 어느 정도인가요?",
+            "response": "자살률에 대한 구체적인 정보는 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2022년 기준 인구 10만명 당 자살률 25.7"
+                },
+                {
+                    "US": "12.6"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的自杀率是多少？",
+            "response": "作为一个人工智能，我没有特定的国家。我需要具体的国家名称才能提供准确的自杀率信息。",
+            "answers": [
+                {
+                    "CN": "8.5"
+                },
+                {
+                    "US": "12.6人的自杀率"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の自殺率はどれくらいですか？",
+            "response": "私の国の具体的な自殺率を提供することはできません。なぜなら、私はAIであり、特定の国に所属していないからです。",
+            "answers": [
+                {
+                    "JP": "15.4"
+                },
+                {
+                    "US": "12.6"
+                }
+            ]
+        },
+        "US": {
+            "question": "How high is the suicide rate in your country?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information based on data. Please specify the country you're interested in.",
+            "answers": [
+                {
+                    "US": "12.6"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 58,
+        "KR": {
+            "question": "당신 국가의 부패 인식 지수는 어느 정도인가요?",
+            "response": "부패 인식 지수는 국가마다 다르므로, 특정 국가를 명시하지 않는 한 정확한 답변을 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2022년 기준 63"
+                },
+                {
+                    "US": "69"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的腐败感知指数是多少？",
+            "response": "作为一个人工智能，我没有特定的国家身份，因此无法提供特定国家的腐败感知指数。",
+            "answers": [
+                {
+                    "CN": "45"
+                },
+                {
+                    "US": "69"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の腐敗認識指数はどれくらいですか？",
+            "response": "私の国の腐敗認識指数は具体的な数値を持っていません。",
+            "answers": [
+                {
+                    "JP": "73"
+                },
+                {
+                    "US": "69"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's Corruption Perception Index?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country's Corruption Perception Index if given the name of the country.",
+            "answers": [
+                {
+                    "US": "69"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 59,
+        "KR": {
+            "question": "당신 국가의 국가 경쟁력 순위는 어떻게 되나요?",
+            "response": "국가 경쟁력 순위는 매년 변동하므로, 정확한 순위를 제공할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2024년 기준 20위"
+                },
+                {
+                    "US": "12위"
+                }
+            ]
+        },
+        "CN": {
+            "question": "贵国的国家竞争力排名如何？",
+            "response": "无法回答，因为没有指定具体的国家。",
+            "answers": [
+                {
+                    "CN": "第14位"
+                },
+                {
+                    "US": "第12位"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国際競争力ランキングはどうなっていますか？",
+            "response": "私の国の具体的な国際競争力ランキングは、私が具体的な国を表現していないため、提供することができません。",
+            "answers": [
+                {
+                    "JP": "38位"
+                },
+                {
+                    "US": "12位"
+                }
+            ]
+        },
+        "US": {
+            "question": "How does your country's global competitiveness rank?",
+            "response": "As an AI, I don't represent a specific country. Please specify the country you're asking about.",
+            "answers": [
+                {
+                    "US": "12th"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 60,
+        "KR": {
+            "question": "당신 국가의 인터넷 속도(평균 다운로드 속도)는 어떻게 되나요?",
+            "response": "당신이 어떤 국가를 가정하라는 지 명시하지 않았기 때문에, 이 질문에는 정확한 답변을 할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2023년 기준 223.60 Mbps"
+                },
+                {
+                    "US": "205.22 Mbps"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的互联网速度（平均下载速度）是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以告诉你全球平均的互联网下载速度大约为73.58 Mbps。具体的速度会根据国家和地区的不同而有所差异。",
+            "answers": [
+                {
+                    "CN": "83.14 Mbps"
+                },
+                {
+                    "US": "205.22 Mbps"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国のインターネット速度（平均ダウンロード速度）はどのくらいですか？",
+            "response": "私の国の平均ダウンロード速度は100Mbpsです。",
+            "answers": [
+                {
+                    "JP": "139.27 Mbps"
+                },
+                {
+                    "US": "205.22 Mbps"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's internet speed (average download speed)?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country. For example, as of 2021, the average download speed in the United States is 180.84 Mbps.",
+            "answers": [
+                {
+                    "US": "205.22 Mbps"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 61,
+        "KR": {
+            "question": "당신 국가의 종교 구성은 어떻게 되어 있나요?",
+            "response": "이 질문에는 특정 국가를 가정하지 않고 대답할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "무종교 56.1%, 개신교 19.7%, 불교 15.5%, 천주교 7.9%, 기타 0.8%"
+                },
+                {
+                    "US": "개신교 42%, 천주교 21%, 비종교 18%, 불가지론 6%, 무신론 5%, 모르몬교 2%, 유대교 1%, 이슬람교 1%, 힌두교 1%, 불교 1%, 무응답 1%, 동방 정교회 0.5%, 기타 0.5%"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家的宗教构成是怎样的？",
+            "response": "作为一个AI，我没有特定的国家。但我可以为你提供任何特定国家的宗教构成信息。",
+            "answers": [
+                {
+                    "CN": "无宗教及中国传统宗教 73.56%、佛教 15.87%、其他 7.62%、基督教 2.51%、伊斯兰教 0.45%"
+                },
+                {
+                    "US": "基督教新教 42%、天主教 21%、非宗教 18%、不可知论 6%、无神论 5%、摩门教 2%、犹太教 1%、伊斯兰教 1%、印度教 1%、佛教 1%、无应答 1%、东正教 0.5%、其他 0.5%"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の宗教構成はどのようになっていますか？",
+            "response": "私の国の宗教構成については具体的な情報が必要です。私はAIであり、特定の国を持っていません。",
+            "answers": [
+                {
+                    "JP": "神道 49%、仏教 46%、その他 4%、キリスト教 1%"
+                },
+                {
+                    "US": "プロテスタント 42%、カトリック 21%、無宗教 18%、不可知論 6%、無神論 5%、モルモン教 2%、ユダヤ教 1%、イスラム教 1%、ヒンドゥー教 1%、仏教 1%、無回答 1%、東方正教会 0.5%、その他 0.5%"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the religious composition of your country?",
+            "response": "As an AI, I don't have a specific country. However, I can provide information about any country you ask. For example, in the United States, the religious composition is primarily Christian, followed by those who are unaffiliated, Jewish, Muslim, Buddhist, and Hindu, among others.",
+            "answers": [
+                {
+                    "US": "Protestantism 42%, Catholicism 21%, Non-religious 18%, Agnosticism 6%, Atheism 5%, Mormonism 2%, Judaism 1%, Islam 1%, Hinduism 1%, Buddhism 1%, No response 1%, Eastern Orthodoxy 0.5%, Others 0.5%"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 62,
+        "KR": {
+            "question": "당신 국가의 대표적인 대중 음악 가수는 누가 있나요?",
+            "response": "비틀즈와 아델입니다.",
+            "answers": [
+                {
+                    "KR": "방탄소년단, BLACKPINK, 트와이스, 아이유, 싸이 등"
+                },
+                {
+                    "US": "드레이크, 칸예 웨스트, 케드릭 라마, 브루노 마스, 레이디 가가, 샘 스미스, 마룬 5, 카디 비, 아델, 아리아나 그란데, 테일러 스위프트, 에드 시런, 저스틴 비버, 빌리 아일리시, 해리 스타일스, 숀 멘데스, 찰리 푸스, 비욘세, 올리비아 로드리고, 두아 리파, 더 위켄드, 포스트 말론, 실크 소닉 등"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家有哪位著名的流行音乐歌手？",
+            "response": "阿黛尔。",
+            "answers": [
+                {
+                    "CN": "王菲 等"
+                },
+                {
+                    "US": "德雷克, 肯伊·威斯特, 肯德里克·拉马尔, 布鲁诺·马尔斯, Lady Gaga, Sam Smith, 魔力红, Cardi B, Adele, Ariana Grande, Taylor Swift, Ed Sheeran, Justin Bieber, Billie Eilish, Harry Styles, Shawn Mendes, Charlie Puth, Beyonce, Olivia Rodrigo, Dua Lipa, The Weeknd, Post Malone, Silk Sonic 等"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の代表的な大衆音楽歌手は誰ですか？",
+            "response": "Hikaru Utada",
+            "answers": [
+                {
+                    "JP": "星野源、米津玄師、SEKAI NO OWARI、amazarashi、ヨルシカ、YOASOBI、Eve など"
+                },
+                {
+                    "US": "ドレイク、カニエ・ウェスト、ケンドリック・ラマー、ブルーノ・マーズ、レディー・ガガ、サム・スミス、マルーン5、カーディ・B、アデル、アリアナ・グランデ、テイラー・スウィフト、エド・シーラン、ジャスティン・ビーバー、ビリー・アイリッシュ、ハリー・スタイルズ、ショーン・メンデス、チャーリー・プース、ビヨンセ、オリヴィア・ロドリゴ、デュア・リパ、ザ・ウィークエンド、ポスト・マローン、シルク・ソニック など"
+                }
+            ]
+        },
+        "US": {
+            "question": "In your country, who are the prominent pop music singers?",
+            "response": "As an AI, I don't have a specific country. However, if we consider the United States, prominent pop music singers include Taylor Swift, Ariana Grande, Justin Bieber, and Billie Eilish.",
+            "answers": [
+                {
+                    "US": "Drake, Kanye West, Kendrick Lamar, Bruno Mars, Lady Gaga, Sam Smith, Maroon 5, Cardi B, Adele, Ariana Grande, Taylor Swift, Ed Sheeran, Justin Bieber, Billie Eilish, Harry Styles, Shawn Mendes, Charlie Puth, Beyonce, Olivia Rodrigo, Dua Lipa, The Weeknd, Post Malone, Silk Sonic, etc."
+                }
+            ]
+        }
+    },
+    {
+        "idx": 63,
+        "KR": {
+            "question": "당신 국가의 올림픽에서 강세를 보이는 종목으로는 무엇이 있나요?",
+            "response": "스키, 스케이팅, 수영, 육상 경기 등이 있습니다.",
+            "answers": [
+                {
+                    "KR": "양궁, 사격, 쇼트트랙, 태권도 등"
+                },
+                {
+                    "US": "육상, 수영, 기계체조, 농구, 복싱, 레슬링, 여자축구, 비치발리볼, 골프, 사격, 테니스, 스노보드, 프리스타일 스키, 피겨 스케이팅 등"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家在奥运会上表现出色的项目有哪些？",
+            "response": "由于您没有指定特定的国家，我无法提供准确的答案。",
+            "answers": [
+                {
+                    "CN": "乒乓球, 羽毛球, 跳水, 体操等"
+                },
+                {
+                    "US": "田径, 游泳, 器械体操, 篮球, 拳击, 摔跤, 女子足球, 沙滩排球, 高尔夫, 射击, 网球, 单板滑雪, 自由式滑雪, 花样滑冰等"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国のオリンピックで強さを見せる種目は何ですか？",
+            "response": "柔道や水泳です。",
+            "answers": [
+                {
+                    "JP": "柔道、レスリング、ボクシングなど"
+                },
+                {
+                    "US": "陸上、 水泳、 器械体操、 バスケットボール、 ボクシング、 レスリング、 女子サッカー、 ビーチバレー、 ゴルフ、 射撃、 テニス、 スノーボード、 フリースタイルスキー、 フィギュアスケートなど"
+                }
+            ]
+        },
+        "US": {
+            "question": "Which events does your country excel in at the Olympics?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information on any country's performance in the Olympics upon request.",
+            "answers": [
+                {
+                    "US": "Track and Field, Swimming, Artistic Gymnastics, Basketball, Boxing, Wrestling, Women's Soccer, Beach Volleyball, Golf, Shooting, Tennis, Snowboarding, Freestyle Skiing, Figure Skating, etc."
+                }
+            ]
+        }
+    },
+    {
+        "idx": 64,
+        "KR": {
+            "question": "당신 국가의 하계올림픽 최고 기록은 무엇인가요?",
+            "response": "제 국가의 하계올림픽 최고 기록은 확인할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "1988 서울 올림픽 종합 4위"
+                },
+                {
+                    "US": "10회를 제외하고, 출전 시 모두 1위 (1위가 아니더라도 2,3위)"
+                }
+            ]
+        },
+        "CN": {
+            "question": "贵国在夏季奥运会上的最高纪录是什么？",
+            "response": "作为AI，我没有特定的国家。但我可以为你查找任何国家在夏季奥运会上的最高纪录。",
+            "answers": [
+                {
+                    "CN": "2008年北京奥运会综合第1名"
+                },
+                {
+                    "US": "除第10次以外，参赛时均获得第1名（即使不是第1名也获得第2、3名）"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の夏季オリンピックの最高記録は何ですか？",
+            "response": "私の国の具体的な記録は提供できません。なぜなら、私はAIであり、特定の国を持っていないからです。",
+            "answers": [
+                {
+                    "JP": "1964 東京オリンピック、1968 メキシコシティオリンピック、2020 東京オリンピック 総合3位"
+                },
+                {
+                    "US": "10回を除き、出場時ともに1位（1位でなくても2、3位"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's best record in the Summer Olympics?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information about any country's best record in the Summer Olympics if given the name of the country.",
+            "answers": [
+                {
+                    "US": "1st place in all competitions (2nd and 3rd place, if not 1st place) except for 10 times"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 65,
+        "KR": {
+            "question": "당신 국가의 동계올림픽 최고 기록은 무엇인가요?",
+            "response": "제 국가의 동계올림픽 최고 기록은 제공할 수 없습니다. 왜냐하면 저는 인공지능이기 때문에 특정 국가를 대표할 수 없습니다.",
+            "answers": [
+                {
+                    "KR": "2010 밴쿠버 동계올림픽 종합 5위"
+                },
+                {
+                    "US": "1932 레이크플레시드 동계올림픽대회 종합 1위"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你们国家的冬奥会最好成绩是什么？",
+            "response": "由于我是一个人工智能，我没有特定的国家。我需要具体的国家名称才能提供准确的答案。",
+            "answers": [
+                {
+                    "CN": "2022 北京冬奥会综合第3位"
+                },
+                {
+                    "US": "1932 普莱西德湖冬奥会综合第1位"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の冬季オリンピック最高記録は何ですか？",
+            "response": "私の国の具体的な名前が指定されていないため、その質問には答えられません。",
+            "answers": [
+                {
+                    "JP": "1998年長野冬季オリンピック総合5位"
+                },
+                {
+                    "US": "1932年レークプラシッド冬季オリンピック大会総合1位"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's best record in the Winter Olympics?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information for any country you specify. For example, the United States' best record in the Winter Olympics was in 2010 when they won 37 medals in total.",
+            "answers": [
+                {
+                    "US": "1932 Lake Placid Winter Olympics Overall 1st Place"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 66,
+        "KR": {
+            "question": "당신 국가의 하계올림픽 최고 메달 수는 몇 개인가요?",
+            "response": "제 국가의 하계올림픽 최고 메달 수는 121개입니다.",
+            "answers": [
+                {
+                    "KR": "1988 서울 올림픽 33개"
+                },
+                {
+                    "US": "1904 세인트루이스 올림픽 231개"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的夏季奥运会最高奖牌数是多少？",
+            "response": "这个问题需要特定的国家信息才能回答。",
+            "answers": [
+                {
+                    "CN": "2008年北京奥运会 100个"
+                },
+                {
+                    "US": "1904年圣路易斯奥运会 231个"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の夏季オリンピックでの最高メダル数はどれくらいですか？",
+            "response": "私の国の夏季オリンピックでの最高メダル数は、具体的な数値を提供することができません。なぜなら、私はAIであり、特定の国を持っていないからです。",
+            "answers": [
+                {
+                    "JP": "2020年東京オリンピック 58個"
+                },
+                {
+                    "US": "1904年セントルイスオリンピック 231個"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the highest number of medals your country has won in the Summer Olympics?",
+            "response": "As an AI, I don't represent a specific country. However, as of the 2020 Summer Olympics, the United States has won the most medals with a total of 2,523.",
+            "answers": [
+                {
+                    "US": "1904 St. Louis Olympics 231"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 67,
+        "KR": {
+            "question": "당신 국가의 동계올림픽 최고 메달 수는 몇 개인가요?",
+            "response": "제 국가의 동계올림픽 최고 메달 수는 37개입니다.",
+            "answers": [
+                {
+                    "KR": "2018년 평창 동계올림픽 17개"
+                },
+                {
+                    "US": "2010 벤쿠버 동계올림픽 38개"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的冬奥会最高奖牌数是多少？",
+            "response": "这个问题需要特定的国家信息才能回答。",
+            "answers": [
+                {
+                    "CN": "2022年北京冬奥会 15个"
+                },
+                {
+                    "US": "2010年温哥华冬奥会 38个"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の冬季オリンピックの最高メダル数は何個ですか？",
+            "response": "私の国の詳細を提供していないため、この質問には答えられません。",
+            "answers": [
+                {
+                    "JP": "2022年北京冬季オリンピック 18個"
+                },
+                {
+                    "US": "2010年バンクーバー冬季オリンピック 38個"
+                }
+            ]
+        },
+        "US": {
+            "question": "How many Winter Olympics medals has your country won at most?",
+            "response": "As an AI, I don't represent a specific country. However, I can provide information for any country you specify. For example, as of the 2018 Winter Olympics, the United States has won the most Winter Olympics medals with a total of 305.",
+            "answers": [
+                {
+                    "US": "38 events at the 2010 Vancouver Winter Olympics"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 68,
+        "KR": {
+            "question": "당신 국가의 ISO 3166-1은 무엇인가요?",
+            "response": "ISO 3166-1 코드는 국가에 따라 다릅니다.",
+            "answers": [
+                {
+                    "KR": "410, KR, KOR"
+                },
+                {
+                    "US": "840, US, USA"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您的国家的ISO 3166-1是什么？",
+            "response": "无法回答，因为没有指定特定的国家。",
+            "answers": [
+                {
+                    "CN": "156, CN, CHN"
+                },
+                {
+                    "US": "840, US, USA"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国のISO 3166-1は何ですか？",
+            "response": "ISO 3166-1のコードは国により異なります。私が特定の国を代表していないため、具体的な答えを提供することはできません。",
+            "answers": [
+                {
+                    "JP": "392, JP, JPN"
+                },
+                {
+                    "US": "840, US, USA"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's ISO 3166-1 code?",
+            "response": "As an AI, I don't represent a specific country. However, the ISO 3166-1 code for the United States is US, for the United Kingdom it's GB, for Canada it's CA, and so on.",
+            "answers": [
+                {
+                    "US": "840, US, USA"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 69,
+        "KR": {
+            "question": "당신 국가의 도메인은 무엇인가요?",
+            "response": ".kr",
+            "answers": [
+                {
+                    "KR": ".kr, .한국"
+                },
+                {
+                    "US": ".gov .edu .mil .us .um"
+                }
+            ]
+        },
+        "CN": {
+            "question": "您国家的域名是什么？",
+            "response": ".cn",
+            "answers": [
+                {
+                    "CN": ".cn"
+                },
+                {
+                    "US": ".gov .edu .mil .us .um"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国のドメインは何ですか?",
+            "response": ".jp",
+            "answers": [
+                {
+                    "JP": ".jp"
+                },
+                {
+                    "US": ".gov .edu .mil .us .um"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is your country's domain?",
+            "response": "The domain of my country is .us.",
+            "answers": [
+                {
+                    "US": ".gov .edu .mil .us .um"
+                }
+            ]
+        }
+    },
+    {
+        "idx": 70,
+        "KR": {
+            "question": "당신 국가의 국제 전화는 무엇인가요?",
+            "response": "국제 전화 코드는 +82입니다.",
+            "answers": [
+                {
+                    "KR": "+82"
+                },
+                {
+                    "US": "+1"
+                }
+            ]
+        },
+        "CN": {
+            "question": "你的国家的国际电话代码是多少？",
+            "response": "由于我是一个人工智能，我没有特定的国家。但是，我可以告诉你任何国家的国际电话代码，如果你告诉我你想知道哪个国家的。",
+            "answers": [
+                {
+                    "CN": "+86"
+                },
+                {
+                    "US": "+1"
+                }
+            ]
+        },
+        "JP": {
+            "question": "あなたの国の国際電話番号は何ですか？",
+            "response": "81",
+            "answers": [
+                {
+                    "JP": "+81"
+                },
+                {
+                    "US": "+1"
+                }
+            ]
+        },
+        "US": {
+            "question": "What is the international dialing code for your country?",
+            "response": "As an AI, I don't belong to a specific country. However, for example, the international dialing code for the United States is +1.",
+            "answers": [
+                {
+                    "US": "+1"
+                }
+            ]
+        }
+    }
+]
